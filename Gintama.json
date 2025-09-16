@@ -1,0 +1,89 @@
+{
+  "title": "Gintama",
+  "description": "",
+  "artist": "SORACHI Hideaki",
+  "author": "SORACHI Hideaki",
+  "cover": "https://m.media-amazon.com/images/I/71leDZuiBcL._SL1200_.jpg",
+  "chapters": {
+    "637": {
+      "title": "Be Careful of Scattering Too Many Flags",
+      "last_updated": "1758055462",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9rydr9xva7k"
+      },
+      "volume": "71"
+    },
+    "638": {
+      "title": "Healthy Teeth Have Pretty Teeth Marks",
+      "last_updated": "1758055529",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/pg73larzg7r"
+      },
+      "volume": "71"
+    },
+    "639": {
+      "title": "Hell is More Close By Than Heaven",
+      "last_updated": "1758055559",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/xny8mn3b27b"
+      },
+      "volume": "71"
+    },
+    "640": {
+      "title": "To Make Interesting an Otherwise Boring World",
+      "last_updated": "1758055585",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/o24aj93zd4l"
+      },
+      "volume": "71"
+    },
+    "641": {
+      "title": "Heroes are Created by People",
+      "last_updated": "1758055610",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/agyvrp2mb78"
+      },
+      "volume": "71"
+    },
+    "642": {
+      "title": "People that Wear Glasses Will Have Glasses When They Show Up as Ghosts",
+      "last_updated": "1758055651",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ne7bq958m75"
+      },
+      "volume": "71"
+    },
+    "643": {
+      "title": "Blood and Tears",
+      "last_updated": "1758055676",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/5xy225azzyl"
+      },
+      "volume": "71"
+    },
+    "644": {
+      "title": "Fire Can't Burn Fire",
+      "last_updated": "1758055700",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/6eyrlk9rxyp"
+      },
+      "volume": "71"
+    },
+    "645": {
+      "title": "When You Do Something Out of Character, Something Out of Character Happens",
+      "last_updated": "1758055723",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/lqyemk2jm7d"
+      },
+      "volume": "71"
+    },
+    "646": {
+      "title": "The One Bolder Than Despair",
+      "last_updated": "1758055746",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/bp45qvpkn45"
+      },
+      "volume": "71"
+    }
+  }
+}
