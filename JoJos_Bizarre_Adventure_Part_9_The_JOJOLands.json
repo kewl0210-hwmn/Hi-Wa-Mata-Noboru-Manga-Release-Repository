@@ -1,0 +1,17 @@
+{
+  "title": "JoJo's Bizarre Adventure Part 9 - The JOJOLands",
+  "description": "",
+  "artist": "ARAKI Hirohiko",
+  "author": "ARAKI Hirohiko",
+  "cover": "https://i0.wp.com/hiwamatanoboru.com/wp-content/uploads/2023/08/The_JOJOLands_v01.jpg",
+  "chapters": {
+    "002": {
+      "title": "South King Street",
+      "last_updated": "1758051977",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/md7o8p9jl4p"
+      },
+      "volume": "01"
+    }
+  }
+}
