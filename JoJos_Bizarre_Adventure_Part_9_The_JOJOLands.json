@@ -196,6 +196,34 @@
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ne7bq9dkv75"
       },
       "volume": "06"
+    },
+    "025": {
+      "title": "Laem Chabang's Investigation",
+      "last_updated": "1758058495",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/6eyrlk93kyp"
+      }
+    },
+    "026": {
+      "title": "Paco VS Ningbo Part 1",
+      "last_updated": "1758058551",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qb4zn2elg4j"
+      }
+    },
+    "027": {
+      "title": "Paco VS Ningbo Part 2",
+      "last_updated": "1758058593",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/a846dnwzg7x"
+      }
+    },
+    "028": {
+      "title": "Dignity and Instruction",
+      "last_updated": "1758058642",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/md7o8pw3a4p"
+      }
     }
   }
 }
