@@ -84,6 +84,86 @@
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/vj4j8pk5578"
       },
       "volume": "01"
+    },
+    "011": {
+      "title": "Asian Dream I",
+      "last_updated": "1758060014",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qb4zn28654j"
+      },
+      "volume": "02"
+    },
+    "012": {
+      "title": "Asian Dream II",
+      "last_updated": "1758060174",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/xny8mn5p27b"
+      },
+      "volume": "02"
+    },
+    "013": {
+      "title": "Sunshine I",
+      "last_updated": "1758060202",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ljyq2pr9dy2"
+      },
+      "volume": "02"
+    },
+    "014": {
+      "title": "Sunshine II",
+      "last_updated": "1758060228",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/pg73la59g7r"
+      },
+      "volume": "02"
+    },
+    "015": {
+      "title": "Sunshine III",
+      "last_updated": "1758060244",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/xny8mn5x27b"
+      },
+      "volume": "02"
+    },
+    "016": {
+      "title": "Sunshine IV",
+      "last_updated": "1758060259",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/o24aj98pd4l"
+      },
+      "volume": "02"
+    },
+    "017": {
+      "title": "Sunshine V",
+      "last_updated": "1758060274",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/m9yx3p8kpyq"
+      },
+      "volume": "02"
+    },
+    "018": {
+      "title": "Mademoiselle de Paris",
+      "last_updated": "1758060294",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9p4n8ojeb4n"
+      },
+      "volume": "02"
+    },
+    "019": {
+      "title": "The Lady Wants to Know",
+      "last_updated": "1758060310",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/dl7p8pdj3yo"
+      },
+      "volume": "02"
+    },
+    "020": {
+      "title": "That's When Your Heartaches Begin",
+      "last_updated": "1758060343",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/md7o8pqg24p"
+      },
+      "volume": "02"
     }
   }
 }
