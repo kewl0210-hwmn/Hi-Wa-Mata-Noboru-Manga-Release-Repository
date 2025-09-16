@@ -12,6 +12,14 @@
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/md7o8p9jl4p"
       },
       "volume": "01"
+    },
+    "001": {
+      "title": "Departure",
+      "last_updated": "1758052281",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/agyvrp2wk78"
+      },
+      "volume": "01"
     }
   }
 }
