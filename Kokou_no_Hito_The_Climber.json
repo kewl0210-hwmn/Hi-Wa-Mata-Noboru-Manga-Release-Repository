@@ -1,0 +1,81 @@
+{
+  "title": "Kokou no Hito (The Climber)",
+  "description": "",
+  "artist": "SAKAMOTO Shinichi",
+  "author": "SAKAMOTO Shinichi, NABEDA Yoshirou, TAKANO Hiroshi, NITTA Jirou",
+  "cover": "https://i0.wp.com/hiwamatanoboru.com/wp-content/uploads/2024/06/Kokou_no_Hito_v01_ch000_000a.png",
+  "chapters": {
+    "001": {
+      "title": "School Building Ascent",
+      "last_updated": "1758057938",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/a846dnw3v7x"
+      },
+      "volume": "01"
+    },
+    "002": {
+      "title": "Rope Partner",
+      "last_updated": "1758057988",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/na7k8pmkm78"
+      },
+      "volume": "01"
+    },
+    "003": {
+      "title": "Climbing Shoes",
+      "last_updated": "1758058015",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/5xy225aonyl"
+      },
+      "volume": "01"
+    },
+    "004": {
+      "title": "Image Climbing",
+      "last_updated": "1758058044",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ej7m8pweqyd"
+      },
+      "volume": "01"
+    },
+    "005": {
+      "title": "Onsight",
+      "last_updated": "1758058072",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qe4gw9jqo7j"
+      },
+      "volume": "01"
+    },
+    "006": {
+      "title": "Observation!",
+      "last_updated": "1758058100",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/o24aj9qng4l"
+      },
+      "volume": "01"
+    },
+    "007": {
+      "title": "Moves!",
+      "last_updated": "1758058127",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/92493nwlv4n"
+      },
+      "volume": "01"
+    },
+    "008": {
+      "title": "Mount Takatori",
+      "last_updated": "1758058154",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/md7o8pw5a4p"
+      },
+      "volume": "01"
+    },
+    "009": {
+      "title": "Vision",
+      "last_updated": "1758058189",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/wl7lopg567x"
+      },
+      "volume": "01"
+    }
+  }
+}
