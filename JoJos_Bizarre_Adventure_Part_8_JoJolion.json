@@ -1,0 +1,49 @@
+{
+  "title": "JoJo's Bizarre Adventure Part 8 - JoJolion",
+  "description": "",
+  "artist": "ARAKI Hirohiko",
+  "author": "ARAKI Hirohiko",
+  "cover": "https://i0.wp.com/hiwamatanoboru.com/wp-content/uploads/2017/04/JoJolionV01.jpg",
+  "chapters": {
+    "001": {
+      "title": "Welcome to Morioh",
+      "last_updated": "1758059009",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ej7m8pwpbyd"
+      },
+      "volume": "01"
+    },
+    "002": {
+      "title": "Soft & Wet Part 1",
+      "last_updated": "1758059052",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/agyvrpq8978"
+      },
+      "volume": "01"
+    },
+    "003": {
+      "title": "Soft & Wet Part 2",
+      "last_updated": "1758059082",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/md7o8pwrd4p"
+      },
+      "volume": "01"
+    },
+    "004": {
+      "title": "Soft & Wet Part 3",
+      "last_updated": "1758059123",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/vj4j8pk2278"
+      },
+      "volume": "01"
+    },
+    "005": {
+      "title": "Soft & Wet Part 4",
+      "last_updated": "1758059178",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qb4zn2eo34j"
+      },
+      "volume": "01"
+    }
+  }
+}
