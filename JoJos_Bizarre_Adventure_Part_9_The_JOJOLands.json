@@ -20,6 +20,46 @@
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/agyvrp2wk78"
       },
       "volume": "01"
+    },
+    "003": {
+      "title": "The Villa on the Island of Hawai'i Part 1",
+      "last_updated": "1758053780",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/agyvrp2lw78"
+      },
+      "volume": "01"
+    },
+    "004": {
+      "title": "The Villa on the Island of Hawai'i Part 2",
+      "last_updated": "1758053843",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/5xy225dgnyl"
+      },
+      "volume": "01"
+    },
+    "006": {
+      "title": "Hualālai - Cat Size Part 1",
+      "last_updated": "1758053919",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/n87wmplj34x"
+      },
+      "volume": "02"
+    },
+    "007": {
+      "title": "Hualālai - Cat Size Part 2",
+      "last_updated": "1758053990",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/xny8mn3rp7b"
+      },
+      "volume": "02"
+    },
+    "008": {
+      "title": "Hualālai - Cat Size Part 3",
+      "last_updated": "1758054059",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9p4n8onqw4n"
+      },
+      "volume": "02"
     }
   }
 }
