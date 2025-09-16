@@ -60,6 +60,46 @@
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9p4n8onqw4n"
       },
       "volume": "02"
+    },
+    "005": {
+      "title": "Climb Higher",
+      "last_updated": "1758054216",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/vj4j8p95278"
+      },
+      "volume": "02"
+    },
+    "009": {
+      "title": "Kailua-Kona - Flight Waiting Time Part 1",
+      "last_updated": "1758054299",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/n87wmpl2z4x"
+      },
+      "volume": "03"
+    },
+    "010": {
+      "title": "Kailua-Kona - Flight Waiting Time Part 2",
+      "last_updated": "1758054462",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9p4n8onmz4n"
+      },
+      "volume": "03"
+    },
+    "011": {
+      "title": "Kailua-Kona - Flight Waiting Time Part 3",
+      "last_updated": "1758054529",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qe4gw9e3r7j"
+      },
+      "volume": "03"
+    },
+    "012": {
+      "title": "Charming Man",
+      "last_updated": "1758054575",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9p4n8onaz4n"
+      },
+      "volume": "03"
     }
   }
 }
