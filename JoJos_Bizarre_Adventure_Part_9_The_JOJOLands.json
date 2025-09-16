@@ -7,99 +7,99 @@
   "chapters": {
     "002": {
       "title": "South King Street",
+      "volume": "01",
       "last_updated": "1758051977",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/md7o8p9jl4p"
-      },
-      "volume": "01"
+      }
     },
     "001": {
       "title": "Departure",
+      "volume": "01",
       "last_updated": "1758052281",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/agyvrp2wk78"
-      },
-      "volume": "01"
+      }
     },
     "003": {
       "title": "The Villa on the Island of Hawai'i Part 1",
+      "volume": "01",
       "last_updated": "1758053780",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/agyvrp2lw78"
-      },
-      "volume": "01"
+      }
     },
     "004": {
       "title": "The Villa on the Island of Hawai'i Part 2",
+      "volume": "01",
       "last_updated": "1758053843",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/5xy225dgnyl"
-      },
-      "volume": "01"
+      }
     },
     "006": {
       "title": "Hualālai - Cat Size Part 1",
+      "volume": "02",
       "last_updated": "1758053919",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/n87wmplj34x"
-      },
-      "volume": "02"
+      }
     },
     "007": {
       "title": "Hualālai - Cat Size Part 2",
+      "volume": "02",
       "last_updated": "1758053990",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/xny8mn3rp7b"
-      },
-      "volume": "02"
+      }
     },
     "008": {
       "title": "Hualālai - Cat Size Part 3",
+      "volume": "02",
       "last_updated": "1758054059",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9p4n8onqw4n"
-      },
-      "volume": "02"
+      }
     },
     "005": {
-      "title": "Climb Higher",
+      "title": "\"Climb Higher\"",
+      "volume": "02",
       "last_updated": "1758054216",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/vj4j8p95278"
-      },
-      "volume": "02"
+      }
     },
     "009": {
       "title": "Kailua-Kona - Flight Waiting Time Part 1",
+      "volume": "03",
       "last_updated": "1758054299",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/n87wmpl2z4x"
-      },
-      "volume": "03"
+      }
     },
     "010": {
       "title": "Kailua-Kona - Flight Waiting Time Part 2",
+      "volume": "03",
       "last_updated": "1758054462",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9p4n8onmz4n"
-      },
-      "volume": "03"
+      }
     },
     "011": {
       "title": "Kailua-Kona - Flight Waiting Time Part 3",
+      "volume": "03",
       "last_updated": "1758054529",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qe4gw9e3r7j"
-      },
-      "volume": "03"
+      }
     },
     "012": {
       "title": "Charming Man",
+      "volume": "03",
       "last_updated": "1758054575",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9p4n8onaz4n"
-      },
-      "volume": "03"
+      }
     }
   }
 }
