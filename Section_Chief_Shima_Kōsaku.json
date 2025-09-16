@@ -1,0 +1,73 @@
+{
+  "title": "Section Chief Shima Kōsaku",
+  "description": "",
+  "artist": "HIROKANE Kenshi",
+  "author": "HIROKANE Kenshi",
+  "cover": "https://i0.wp.com/hiwamatanoboru.com/wp-content/uploads/2021/09/Section_Chief_Shima_Kosaku_ch000_000a.png",
+  "chapters": {
+    "001": {
+      "title": "Lipstick on Your Collar",
+      "last_updated": "1758058786",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/o24aj9ql34l"
+      },
+      "volume": "01"
+    },
+    "002": {
+      "title": "I'm Getting Sentimental Over You",
+      "last_updated": "1758058815",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/dl7p8peb6yo"
+      },
+      "volume": "01"
+    },
+    "003": {
+      "title": "Changing Partners",
+      "last_updated": "1758058840",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/5xy225ajjyl"
+      },
+      "volume": "01"
+    },
+    "004": {
+      "title": "Mambo No. 5",
+      "last_updated": "1758058867",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9rydr9mdw7k"
+      },
+      "volume": "01"
+    },
+    "005": {
+      "title": "Don't Be That Way Part I",
+      "last_updated": "1758058891",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qb4zn2e234j"
+      },
+      "volume": "01"
+    },
+    "006": {
+      "title": "Don't Be That Way Part II",
+      "last_updated": "1758058916",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/dl7p8pep6yo"
+      },
+      "volume": "01"
+    },
+    "007": {
+      "title": "Blue Christmas",
+      "last_updated": "1758059012",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/wl7lopgpp7x"
+      },
+      "volume": "01"
+    },
+    "008": {
+      "title": "I Love New York",
+      "last_updated": "1758059071",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/m9yx3pra3yq"
+      },
+      "volume": "01"
+    }
+  }
+}
