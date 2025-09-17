@@ -1,0 +1,153 @@
+{
+  "title": "Neko ga Nishi Mukya",
+  "description": "",
+  "artist": "URUSHIBARA Yuki",
+  "author": "URUSHIBARA Yuki",
+  "cover": "https://i0.wp.com/hiwamatanoboru.com/wp-content/uploads/2019/02/Neko_ga_Nishi_Mukya_v01.jpg",
+  "chapters": {
+    "001": {
+      "title": "The tail does not always face the east",
+      "last_updated": "1758080800",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/pg73ladez7r"
+      },
+      "volume": "01"
+    },
+    "002": {
+      "title": "The tail goes back in time",
+      "last_updated": "1758080829",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/agyvrpx3978"
+      },
+      "volume": "01"
+    },
+    "003": {
+      "title": "The tail is looking for something",
+      "last_updated": "1758080903",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/md7o8pa2d4p"
+      },
+      "volume": "01"
+    },
+    "004": {
+      "title": "The tail turns round",
+      "last_updated": "1758080951",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/wl7lopanp7x"
+      },
+      "volume": "01"
+    },
+    "005": {
+      "title": "The tails is in a mirror",
+      "last_updated": "1758080994",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ljyq2pajoy2"
+      },
+      "volume": "01"
+    },
+    "006": {
+      "title": "The tail is godly belief",
+      "last_updated": "1758081026",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/5xy225qr9yl"
+      },
+      "volume": "01"
+    },
+    "007": {
+      "title": "The tail is out",
+      "last_updated": "1758081065",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/vj4j8pexx78"
+      },
+      "volume": "02"
+    },
+    "008": {
+      "title": "The tail can go anywhere",
+      "last_updated": "1758081094",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9rydr9qvl7k"
+      },
+      "volume": "02"
+    },
+    "009": {
+      "title": "Is tail a ghost…",
+      "last_updated": "1758081120",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/6eyrlkapgyp"
+      },
+      "volume": "02"
+    },
+    "010": {
+      "title": "The tail is restored…",
+      "last_updated": "1758081148",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/pg73ladzj7r"
+      },
+      "volume": "02"
+    },
+    "011": {
+      "title": "The tail is on the stairs",
+      "last_updated": "1758081177",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/n87wmp9wg4x"
+      },
+      "volume": "02"
+    },
+    "012": {
+      "title": "The tail is beyond the snow",
+      "last_updated": "1758081206",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qb4zn25ad4j"
+      },
+      "volume": "02"
+    },
+    "013": {
+      "title": "There is another tail",
+      "last_updated": "1758081248",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/bp45qvmaq45"
+      },
+      "volume": "03"
+    },
+    "014": {
+      "title": "The tail is on the sea",
+      "last_updated": "1758081275",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/agyvrpxmj78"
+      },
+      "volume": "03"
+    },
+    "015": {
+      "title": "The tail swims in the forest",
+      "last_updated": "1758081302",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/92493n2om4n"
+      },
+      "volume": "03"
+    },
+    "016": {
+      "title": "The tail can't go home",
+      "last_updated": "1758081329",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ne7bq9l8j75"
+      },
+      "volume": "03"
+    },
+    "017": {
+      "title": "The tail is on the other side. (1)",
+      "last_updated": "1758081357",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/dl7p8paxpyo"
+      },
+      "volume": "03"
+    },
+    "018": {
+      "title": "The tail is on the other side. (2)",
+      "last_updated": "1758081387",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/na7k8pa3b78"
+      },
+      "volume": "03"
+    }
+  }
+}
