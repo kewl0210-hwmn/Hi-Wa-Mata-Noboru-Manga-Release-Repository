@@ -1,0 +1,457 @@
+{
+  "title": "Ikoku Nikki",
+  "description": "",
+  "artist": "YAMASHITA Tomoko",
+  "author": "YAMASHITA Tomoko",
+  "cover": "https://i0.wp.com/hiwamatanoboru.com/wp-content/uploads/2019/03/Ikoku_Nikki_v01.png",
+  "chapters": {
+    "001": {
+      "title": "page.1",
+      "last_updated": "1758077399",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9p4n8ovn54n"
+      },
+      "volume": "01"
+    },
+    "002": {
+      "title": "page.2",
+      "last_updated": "1758077429",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/5xy225qa3yl"
+      },
+      "volume": "01"
+    },
+    "003": {
+      "title": "page.3",
+      "last_updated": "1758077459",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9rydr9qm67k"
+      },
+      "volume": "01"
+    },
+    "004": {
+      "title": "page.4",
+      "last_updated": "1758077490",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/pg73ladgo7r"
+      },
+      "volume": "01"
+    },
+    "005": {
+      "title": "page.5",
+      "last_updated": "1758077519",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qb4zn25el4j"
+      },
+      "volume": "01"
+    },
+    "006": {
+      "title": "page.6",
+      "last_updated": "1758077562",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/bp45qvmpv45"
+      },
+      "volume": "02"
+    },
+    "007": {
+      "title": "page.7",
+      "last_updated": "1758077587",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/a846dn3w27x"
+      },
+      "volume": "02"
+    },
+    "008": {
+      "title": "page.8",
+      "last_updated": "1758077616",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/m9yx3p9r6yq"
+      },
+      "volume": "02"
+    },
+    "009": {
+      "title": "page.9",
+      "last_updated": "1758077647",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/92493n2w84n"
+      },
+      "volume": "02"
+    },
+    "010": {
+      "title": "page.10",
+      "last_updated": "1758077682",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9p4n8ovw54n"
+      },
+      "volume": "02"
+    },
+    "011": {
+      "title": "page.11",
+      "last_updated": "1758077734",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/na7k8pavw78"
+      },
+      "volume": "03"
+    },
+    "012": {
+      "title": "page.12",
+      "last_updated": "1758077768",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/vj4j8peg978"
+      },
+      "volume": "03"
+    },
+    "013": {
+      "title": "page.13",
+      "last_updated": "1758077801",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/6eyrlkamlyp"
+      },
+      "volume": "03"
+    },
+    "014": {
+      "title": "page.14",
+      "last_updated": "1758077835",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/lqyemkdgz7d"
+      },
+      "volume": "03"
+    },
+    "015": {
+      "title": "page.15",
+      "last_updated": "1758077866",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/xny8mne5w7b"
+      },
+      "volume": "03"
+    },
+    "016": {
+      "title": "page.16",
+      "last_updated": "1758077916",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/a846dn3527x"
+      },
+      "volume": "04"
+    },
+    "017": {
+      "title": "page.17",
+      "last_updated": "1758077952",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9p4n8ovj54n"
+      },
+      "volume": "04"
+    },
+    "018": {
+      "title": "page.18",
+      "last_updated": "1758077983",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/md7o8pa8l4p"
+      },
+      "volume": "04"
+    },
+    "019": {
+      "title": "page.19",
+      "last_updated": "1758078018",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ljyq2pa2xy2"
+      },
+      "volume": "04"
+    },
+    "020": {
+      "title": "page.20",
+      "last_updated": "1758078053",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/6eyrlkallyp"
+      },
+      "volume": "04"
+    },
+    "021": {
+      "title": "page.21",
+      "last_updated": "1758078094",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/lqyemkdmz7d"
+      },
+      "volume": "05"
+    },
+    "022": {
+      "title": "page.22",
+      "last_updated": "1758078125",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/o24aj92je4l"
+      },
+      "volume": "05"
+    },
+    "023": {
+      "title": "page.23",
+      "last_updated": "1758078152",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/agyvrpxrk78"
+      },
+      "volume": "05"
+    },
+    "024": {
+      "title": "page.24",
+      "last_updated": "1758078195",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9p4n8ov854n"
+      },
+      "volume": "05"
+    },
+    "025": {
+      "title": "page.25",
+      "last_updated": "1758078227",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/md7o8paal4p"
+      },
+      "volume": "05"
+    },
+    "026": {
+      "title": "page.26",
+      "last_updated": "1758078267",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/vj4j8pee978"
+      },
+      "volume": "06"
+    },
+    "026.5": {
+      "title": "page.26.5 SMALL TALK",
+      "last_updated": "1758078326",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/n87wmp99b4x"
+      },
+      "volume": "06"
+    },
+    "027": {
+      "title": "page.27",
+      "last_updated": "1758078355",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/92493n2ka4n"
+      },
+      "volume": "06"
+    },
+    "028": {
+      "title": "page.28",
+      "last_updated": "1758078385",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/na7k8pakm78"
+      },
+      "volume": "06"
+    },
+    "029": {
+      "title": "page.29",
+      "last_updated": "1758078423",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ej7m8paejyd"
+      },
+      "volume": "06"
+    },
+    "030": {
+      "title": "page.30",
+      "last_updated": "1758078458",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/xny8mne6d7b"
+      },
+      "volume": "06"
+    },
+    "031": {
+      "title": "page.31",
+      "last_updated": "1758078507",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ne7bq9lnv75"
+      },
+      "volume": "07"
+    },
+    "032": {
+      "title": "page.32",
+      "last_updated": "1758078537",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ljyq2pa5ky2"
+      },
+      "volume": "07"
+    },
+    "033": {
+      "title": "page.33",
+      "last_updated": "1758078564",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qe4gw9mpb7j"
+      },
+      "volume": "07"
+    },
+    "034": {
+      "title": "page.34",
+      "last_updated": "1758078591",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/m9yx3p9qkyq"
+      },
+      "volume": "07"
+    },
+    "035": {
+      "title": "page.35",
+      "last_updated": "1758078623",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/md7o8pav94p"
+      },
+      "volume": "07"
+    },
+    "036": {
+      "title": "page.36",
+      "last_updated": "1758078681",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/n87wmp9jb4x"
+      },
+      "volume": "08"
+    },
+    "037": {
+      "title": "page.37",
+      "last_updated": "1758078709",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/agyvrpxgz78"
+      },
+      "volume": "08"
+    },
+    "038": {
+      "title": "page.38",
+      "last_updated": "1758078740",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9p4n8ovql4n"
+      },
+      "volume": "08"
+    },
+    "039": {
+      "title": "page.39",
+      "last_updated": "1758078770",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/md7o8pad94p"
+      },
+      "volume": "08"
+    },
+    "040": {
+      "title": "page.40",
+      "last_updated": "1758078807",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/5xy225qxnyl"
+      },
+      "volume": "08"
+    },
+    "041": {
+      "title": "page.41",
+      "last_updated": "1758078853",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/6eyrlka3kyp"
+      },
+      "volume": "09"
+    },
+    "042": {
+      "title": "page.42",
+      "last_updated": "1758078892",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/a846dn3zg7x"
+      },
+      "volume": "09"
+    },
+    "043": {
+      "title": "page.43",
+      "last_updated": "1758078928",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/5xy225qmnyl"
+      },
+      "volume": "09"
+    },
+    "044": {
+      "title": "page.44",
+      "last_updated": "1758078962",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/6eyrlkazkyp"
+      },
+      "volume": "09"
+    },
+    "045": {
+      "title": "page.45",
+      "last_updated": "1758078997",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qb4zn25qg4j"
+      },
+      "volume": "09"
+    },
+    "046": {
+      "title": "page.46",
+      "last_updated": "1758079048",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/o24aj92lg4l"
+      },
+      "volume": "10"
+    },
+    "047": {
+      "title": "page.47",
+      "last_updated": "1758079080",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9p4n8ovaw4n"
+      },
+      "volume": "10"
+    },
+    "047.5": {
+      "title": "page.47.5 SMALL TALK - 2",
+      "last_updated": "1758079098",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/dl7p8pab8yo"
+      },
+      "volume": "10"
+    },
+    "048": {
+      "title": "page.48",
+      "last_updated": "1758079135",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/na7k8pagk78"
+      },
+      "volume": "10"
+    },
+    "049": {
+      "title": "page.49",
+      "last_updated": "1758079169",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/6eyrlkabkyp"
+      },
+      "volume": "10"
+    },
+    "050": {
+      "title": "page.50",
+      "last_updated": "1758079212",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/xny8mnenp7b"
+      },
+      "volume": "10"
+    },
+    "051": {
+      "title": "page.51",
+      "last_updated": "1758079264",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9p4n8ovow4n"
+      },
+      "volume": "11"
+    },
+    "052": {
+      "title": "page.52",
+      "last_updated": "1758079297",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/5xy225q5nyl"
+      },
+      "volume": "11"
+    },
+    "053": {
+      "title": "page.53",
+      "last_updated": "1758079338",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/6eyrlkakkyp"
+      },
+      "volume": "11"
+    },
+    "054": {
+      "title": "last page",
+      "last_updated": "1758079429",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qe4gw9m9o7j"
+      },
+      "volume": "11"
+    }
+  }
+}
