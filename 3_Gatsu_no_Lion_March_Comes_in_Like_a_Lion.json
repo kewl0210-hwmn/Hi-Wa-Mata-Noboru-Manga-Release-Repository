@@ -647,6 +647,486 @@
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/m9yx3avmkyq"
       },
       "volume": "13.1"
+    },
+    "67": {
+      "title": "Small World",
+      "last_updated": "1758218914",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9rydr8pan7k"
+      },
+      "volume": "07"
+    },
+    "68": {
+      "title": "Black Mist",
+      "last_updated": "1758218929",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/6eyrlwd86yp"
+      },
+      "volume": "07"
+    },
+    "69": {
+      "title": "Light",
+      "last_updated": "1758218949",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qb4znvkjv4j"
+      },
+      "volume": "07"
+    },
+    "70": {
+      "title": "Small Palm",
+      "last_updated": "1758218964",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/bp45qbdzg45"
+      },
+      "volume": "07"
+    },
+    "71": {
+      "title": "In the Sun",
+      "last_updated": "1758218978",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/o24ajekvw4l"
+      },
+      "volume": "07"
+    },
+    "72": {
+      "title": "The Flow of Things",
+      "last_updated": "1758218994",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9p4n8dl3l4n"
+      },
+      "volume": "07"
+    },
+    "73": {
+      "title": "White Storm (Part 1)",
+      "last_updated": "1758219015",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/dl7p8mzkkyo"
+      },
+      "volume": "07"
+    },
+    "74": {
+      "title": "White Storm (Part 2)",
+      "last_updated": "1758219067",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/wl7lojm3o7x"
+      },
+      "volume": "08"
+    },
+    "75": {
+      "title": "White Storm (Part 3)",
+      "last_updated": "1758219088",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ej7m8q23jyd"
+      },
+      "volume": "08"
+    },
+    "76": {
+      "title": "White Storm (Part 4)",
+      "last_updated": "1758219103",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qb4znvkwv4j"
+      },
+      "volume": "08"
+    },
+    "77": {
+      "title": "White Storm (Part 5)",
+      "last_updated": "1758219114",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qe4gw6r2b7j"
+      },
+      "volume": "08"
+    },
+    "78": {
+      "title": "Restart",
+      "last_updated": "1758219128",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/bp45qbd2g45"
+      },
+      "volume": "08"
+    },
+    "79": {
+      "title": "Burnt Field (Part 1)",
+      "last_updated": "1758219143",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/a846dbglv7x"
+      },
+      "volume": "08"
+    },
+    "80": {
+      "title": "Burnt Field (Part 2)",
+      "last_updated": "1758219159",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/m9yx3agjkyq"
+      },
+      "volume": "08"
+    },
+    "81": {
+      "title": "Burnt Field (Part 3)",
+      "last_updated": "1758219173",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ne7bqzx5v75"
+      },
+      "volume": "08"
+    },
+    "82": {
+      "title": "Burnt Field (Part 4)",
+      "last_updated": "1758219186",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/md7o8rj994p"
+      },
+      "volume": "08"
+    },
+    "83": {
+      "title": "Being Here",
+      "last_updated": "1758219209",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/5xy22vld8yl"
+      },
+      "volume": "08"
+    },
+    "084": {
+      "title": "Summer Vacation (Part 1)",
+      "last_updated": "1758219256",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/wl7lojm967x"
+      },
+      "volume": "09"
+    },
+    "085": {
+      "title": "Summer Vacation (Part 2)",
+      "last_updated": "1758219269",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/6eyrlwdvkyp"
+      },
+      "volume": "09"
+    },
+    "086": {
+      "title": "New Year",
+      "last_updated": "1758219285",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ej7m8q29qyd"
+      },
+      "volume": "09"
+    },
+    "087": {
+      "title": "Passing Time",
+      "last_updated": "1758219301",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/lqyem5pax7d"
+      },
+      "volume": "09"
+    },
+    "088": {
+      "title": "Spring Comes",
+      "last_updated": "1758219317",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/xny8mklvp7b"
+      },
+      "volume": "09"
+    },
+    "089": {
+      "title": "Child of Sangatsu Town",
+      "last_updated": "1758219332",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/m9yx3agrmyq"
+      },
+      "volume": "09"
+    },
+    "090": {
+      "title": "The Man Called a Grim Reaper",
+      "last_updated": "1758219346",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ne7bqzxdk75"
+      },
+      "volume": "09"
+    },
+    "091": {
+      "title": "Family (Part 1)",
+      "last_updated": "1758219359",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/md7o8rjwa4p"
+      },
+      "volume": "09"
+    },
+    "092": {
+      "title": "Family (Part 2)",
+      "last_updated": "1758219376",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/5xy22vlanyl"
+      },
+      "volume": "09"
+    },
+    "093": {
+      "title": "Bug",
+      "last_updated": "1758219392",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/vj4j82wk578"
+      },
+      "volume": "09"
+    },
+    "094": {
+      "title": "Family (Part 3)",
+      "last_updated": "1758219407",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9rydr8pmd7k"
+      },
+      "volume": "09"
+    },
+    "095": {
+      "title": "New Days",
+      "last_updated": "1758219429",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ej7m8q2wqyd"
+      },
+      "volume": "10"
+    },
+    "096": {
+      "title": "Lunch Break",
+      "last_updated": "1758219443",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/lqyem5p2x7d"
+      },
+      "volume": "10"
+    },
+    "097": {
+      "title": "Other Home",
+      "last_updated": "1758219456",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qe4gw6rjo7j"
+      },
+      "volume": "10"
+    },
+    "098": {
+      "title": "Soft Wind",
+      "last_updated": "1758219470",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/bp45qbd5x45"
+      },
+      "volume": "10"
+    },
+    "099": {
+      "title": "Town Where it Rains",
+      "last_updated": "1758219485",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/92493bjpv4n"
+      },
+      "volume": "10"
+    },
+    "100": {
+      "title": "Swimming Man (Part 1)",
+      "last_updated": "1758219501",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ne7bqzxkk75"
+      },
+      "volume": "10"
+    },
+    "101": {
+      "title": "Swimming Man (Part 2)",
+      "last_updated": "1758219519",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/na7k8lwvk78"
+      },
+      "volume": "10"
+    },
+    "102": {
+      "title": "Visitor (Part 1)",
+      "last_updated": "1758219533",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/wl7lojm267x"
+      },
+      "volume": "10"
+    },
+    "103": {
+      "title": "Visitor (Part 2)",
+      "last_updated": "1758219551",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ljyq23drey2"
+      },
+      "volume": "10"
+    },
+    "104": {
+      "title": "Promise",
+      "last_updated": "1758219588",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ej7m8q2lqyd"
+      },
+      "volume": "10"
+    },
+    "105": {
+      "title": "A Small Talk",
+      "last_updated": "1758219620",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qe4gw6r5o7j"
+      },
+      "volume": "11"
+    },
+    "106": {
+      "title": "Fun Dinner",
+      "last_updated": "1758219629",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/agyvr8erw78"
+      },
+      "volume": "11"
+    },
+    "107": {
+      "title": "Osaka (Part 1)",
+      "last_updated": "1758219644",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/m9yx3ag3myq"
+      },
+      "volume": "11"
+    },
+    "108": {
+      "title": "Osaka (Part 2)",
+      "last_updated": "1758219658",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/92493bj3v4n"
+      },
+      "volume": "11"
+    },
+    "109": {
+      "title": "Osaka (Part 3)",
+      "last_updated": "1758219672",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ne7bqzxqk75"
+      },
+      "volume": "11"
+    },
+    "110": {
+      "title": "Osaka (Part 4)",
+      "last_updated": "1758219691",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/dl7p8mz88yo"
+      },
+      "volume": "11"
+    },
+    "111": {
+      "title": "The Night the Cuckoo Sang",
+      "last_updated": "1758219714",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/vj4j82w8578"
+      },
+      "volume": "11"
+    },
+    "112": {
+      "title": "Sunday (Part 1)",
+      "last_updated": "1758219729",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9rydr8prd7k"
+      },
+      "volume": "11"
+    },
+    "113": {
+      "title": "Sunday (Part 2)",
+      "last_updated": "1758219746",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ej7m8q28qyd"
+      },
+      "volume": "11"
+    },
+    "114": {
+      "title": "Gentle Song",
+      "last_updated": "1758219782",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/pg73lxjlv7r"
+      },
+      "volume": "11"
+    },
+    "115": {
+      "title": "Party Invitation",
+      "last_updated": "1758219812",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/lqyem5pmx7d"
+      },
+      "volume": "12"
+    },
+    "116": {
+      "title": "The Tale of Elizabeth the Faithful Dog",
+      "last_updated": "1758219822",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/xny8mklep7b"
+      },
+      "volume": "12"
+    },
+    "117": {
+      "title": "The Satsuma Arc (Part 1)",
+      "last_updated": "1758219840",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/bp45qbdmx45"
+      },
+      "volume": "12"
+    },
+    "118": {
+      "title": "The Satsuma Arc (Part 2)",
+      "last_updated": "1758219859",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/a846dbg3g7x"
+      },
+      "volume": "12"
+    },
+    "119": {
+      "title": "The Satsuma Arc (Part 3)",
+      "last_updated": "1758219876",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9p4n8dlvw4n"
+      },
+      "volume": "12"
+    },
+    "120": {
+      "title": "The Satsuma Arc (Part 4)",
+      "last_updated": "1758219892",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/dl7p8mza8yo"
+      },
+      "volume": "12"
+    },
+    "121": {
+      "title": "The Path Lit by the Paper Lanterns (Part 1)",
+      "last_updated": "1758219907",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/5xy22vlqnyl"
+      },
+      "volume": "12"
+    },
+    "122": {
+      "title": "The Path Lit by the Paper Lanterns (Part 2)",
+      "last_updated": "1758219925",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ljyq23daey2"
+      },
+      "volume": "12"
+    },
+    "123": {
+      "title": "The Path Lit by the Paper Lanterns (Part 3)",
+      "last_updated": "1758219944",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/5xy22vlqjyl"
+      },
+      "volume": "12"
+    },
+    "124": {
+      "title": "The Path Lit by the Paper Lanterns (Part 4)",
+      "last_updated": "1758219964",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/wl7lojmap7x"
+      },
+      "volume": "12"
+    },
+    "125": {
+      "title": "The Path Lit by the Paper Lanterns (Part 5)",
+      "last_updated": "1758219984",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ljyq23daoy2"
+      },
+      "volume": "12"
+    },
+    "126": {
+      "title": "The Night of the Summer Festival",
+      "last_updated": "1758220007",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qb4znvkp34j"
+      },
+      "volume": "12"
     }
   }
 }
