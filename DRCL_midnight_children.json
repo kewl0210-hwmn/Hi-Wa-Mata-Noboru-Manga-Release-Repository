@@ -1,9 +1,9 @@
 {
-  "title": "DRCL midnight children",
+  "title": "#DRCL midnight children",
   "description": "",
-  "artist": "",
-  "author": "",
-  "cover": "",
+  "artist": "SAKAMOTO Shinichi",
+  "author": "SAKAMOTO Shinichi",
+  "cover": "https://i0.wp.com/hiwamatanoboru.com/wp-content/uploads/2022/05/DRCL_Midnight_Children_v01.png",
   "chapters": {
     "001": {
       "title": "Envoy From the East",
@@ -287,9 +287,9 @@
     },
     "035": {
       "title": "I and Me",
-      "last_updated": "1758174683",
+      "last_updated": "1758175929",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/n87wmpapq4x"
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/lqyemkxbz7d"
       },
       "volume": "04"
     }
