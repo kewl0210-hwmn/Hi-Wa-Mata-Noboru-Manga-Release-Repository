@@ -535,6 +535,118 @@
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/lqyem5vvk7d"
       },
       "volume": "14"
+    },
+    "127": {
+      "title": "Distant Fireworks",
+      "last_updated": "1758211427",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/a846dbxgv7x"
+      },
+      "volume": "13"
+    },
+    "128": {
+      "title": "Ginza",
+      "last_updated": "1758211436",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9p4n8d2xl4n"
+      },
+      "volume": "13"
+    },
+    "129": {
+      "title": "The Wind's 20,000 Miles (Part 1)",
+      "last_updated": "1758211448",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ne7bqzpvv75"
+      },
+      "volume": "13"
+    },
+    "130": {
+      "title": "Midsummer's End",
+      "last_updated": "1758211461",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/md7o8rlx94p"
+      },
+      "volume": "13"
+    },
+    "131": {
+      "title": "The Wind's 20,000 Miles (Part 2)",
+      "last_updated": "1758211471",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/na7k8lrem78"
+      },
+      "volume": "13"
+    },
+    "132": {
+      "title": "The Wind's 20,000 Miles (Part 3)",
+      "last_updated": "1758211482",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/vj4j823ve78"
+      },
+      "volume": "13"
+    },
+    "133": {
+      "title": "The Wind's 20,000 Miles (Part 4)",
+      "last_updated": "1758211494",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9rydr8zan7k"
+      },
+      "volume": "13"
+    },
+    "134": {
+      "title": "The Wind's 20,000 Miles (Part 5)",
+      "last_updated": "1758211501",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ej7m8qnkjyd"
+      },
+      "volume": "13"
+    },
+    "135": {
+      "title": "The Wind's 20,000 Miles (Part 6)",
+      "last_updated": "1758211515",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/n87wm5vgb4x"
+      },
+      "volume": "13"
+    },
+    "136": {
+      "title": "The Smell of Rain",
+      "last_updated": "1758211530",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/lqyem5v6k7d"
+      },
+      "volume": "13"
+    },
+    "137": {
+      "title": "The Smell of the Rain, the Smell of the River (Part 1)",
+      "last_updated": "1758211545",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qe4gw6lxb7j"
+      },
+      "volume": "13"
+    },
+    "138": {
+      "title": "The Smell of the Rain, the Smell of the River (Part 2)",
+      "last_updated": "1758211558",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/xny8mkzod7b"
+      },
+      "volume": "13"
+    },
+    "139": {
+      "title": "The Thing Lying Right in Front of Your Eyes",
+      "last_updated": "1758211587",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/o24ajegvw4l"
+      },
+      "volume": "13"
+    },
+    "139.5": {
+      "title": "",
+      "last_updated": "1758211605",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/m9yx3avmkyq"
+      },
+      "volume": "13.1"
     }
   }
 }
