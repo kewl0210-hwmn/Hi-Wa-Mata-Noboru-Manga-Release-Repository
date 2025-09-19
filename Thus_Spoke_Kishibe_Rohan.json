@@ -1,0 +1,49 @@
+{
+  "title": "Thus Spoke Kishibe Rohan",
+  "description": "",
+  "artist": "ARAKI Hirohiko",
+  "author": "ARAKI Hirohiko",
+  "cover": "https://i0.wp.com/hiwamatanoboru.com///wp-content/uploads/2019/02/TSKR_v01.png",
+  "chapters": {
+    "01": {
+      "title": "Episode #16 At a Confessional",
+      "last_updated": "1758248931",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ej7m8qwljyd"
+      },
+      "volume": "01"
+    },
+    "02": {
+      "title": "Episode #02 Mutsu-kabe Hill",
+      "last_updated": "1758248984",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/o24ajeq8w4l"
+      },
+      "volume": "01"
+    },
+    "03": {
+      "title": "Episode #05 Millionaire Village",
+      "last_updated": "1758249025",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/dl7p8me8kyo"
+      },
+      "volume": "01"
+    },
+    "04": {
+      "title": "Episode #06 Poaching Seashore",
+      "last_updated": "1758249063",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/na7k8lm8m78"
+      },
+      "volume": "01"
+    },
+    "05": {
+      "title": "Kishibe Rohan Meets Gucci",
+      "last_updated": "1758249091",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ljyq23x2ky2"
+      },
+      "volume": "01"
+    }
+  }
+}
