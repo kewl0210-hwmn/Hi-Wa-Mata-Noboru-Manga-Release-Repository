@@ -1,0 +1,57 @@
+{
+  "title": "Innocent Rouge",
+  "description": "",
+  "artist": "SAKAMOTO Shinichi",
+  "author": "SAKAMOTO Shinichi",
+  "cover": "https://i0.wp.com/hiwamatanoboru.com///wp-content/uploads/2017/04/Innocent_Rouge_v01.png?ssl=1",
+  "chapters": {
+    "001": {
+      "title": "Blood-Stained Innocence",
+      "last_updated": "1758248286",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/agyvr8qqz78"
+      },
+      "volume": "01"
+    },
+    "002": {
+      "title": "Execution of Dreams",
+      "last_updated": "1758248315",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9p4n8dwwl4n"
+      },
+      "volume": "01"
+    },
+    "003": {
+      "title": "Proud Family",
+      "last_updated": "1758248340",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/dl7p8meekyo"
+      },
+      "volume": "01"
+    },
+    "004": {
+      "title": "Hands that Grasp Life",
+      "last_updated": "1758248364",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/5xy22vaa8yl"
+      },
+      "volume": "01"
+    },
+    "005": {
+      "title": "World of Purity and Impurity",
+      "last_updated": "1758248390",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ljyq23xxky2"
+      },
+      "volume": "01"
+    },
+    "006": {
+      "title": "Quiet Revolution",
+      "last_updated": "1758248428",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/6eyrlw996yp"
+      },
+      "volume": "01"
+    }
+  }
+}
