@@ -1,0 +1,201 @@
+{
+  "title": "Ring",
+  "description": "",
+  "artist": "SHIMABUKURO Mitsutoshi",
+  "author": "SHIMABUKURO Mitsutoshi",
+  "cover": "https://i0.wp.com/hiwamatanoboru.com/wp-content/uploads/2017/04/ringv1.png",
+  "chapters": {
+    "01": {
+      "title": "Summer",
+      "last_updated": "1758247852",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/m9yx3arm6yq"
+      },
+      "volume": "01"
+    },
+    "02": {
+      "title": "Hello, my Beloved Rivals!",
+      "last_updated": "1758247876",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/92493bwd84n"
+      },
+      "volume": "01"
+    },
+    "03": {
+      "title": "Ring",
+      "last_updated": "1758247897",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/md7o8rw9l4p"
+      },
+      "volume": "01"
+    },
+    "04": {
+      "title": "Legendary Door",
+      "last_updated": "1758247918",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/na7k8lmow78"
+      },
+      "volume": "01"
+    },
+    "05": {
+      "title": "The Fierce Battle for Spring Newcomers",
+      "last_updated": "1758247941",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/5xy22vad3yl"
+      },
+      "volume": "01"
+    },
+    "06": {
+      "title": "Dream Story",
+      "last_updated": "1758247961",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/wl7lojg937x"
+      },
+      "volume": "01"
+    },
+    "07": {
+      "title": "The Ring Team Underway!",
+      "last_updated": "1758247984",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ljyq23xvxy2"
+      },
+      "volume": "01"
+    },
+    "08": {
+      "title": "Scrimmage Match!",
+      "last_updated": "1758248009",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/wl7lojg9o7x"
+      },
+      "volume": "01"
+    },
+    "09": {
+      "title": "The Star Takes the Stage...!",
+      "last_updated": "1758248041",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ljyq23xvky2"
+      },
+      "volume": "02"
+    },
+    "10": {
+      "title": "Beginner, Embrace Ambition...!!",
+      "last_updated": "1758248063",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9rydr8mxn7k"
+      },
+      "volume": "02"
+    },
+    "11": {
+      "title": "When the Morning Sun Rises",
+      "last_updated": "1758248084",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/6eyrlw9v6yp"
+      },
+      "volume": "02"
+    },
+    "12": {
+      "title": "7 People...!",
+      "last_updated": "1758248105",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ej7m8qw9jyd"
+      },
+      "volume": "02"
+    },
+    "13": {
+      "title": "The Ace Appears!",
+      "last_updated": "1758248126",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/n87wm5dlb4x"
+      },
+      "volume": "02"
+    },
+    "14": {
+      "title": "Summer VS Aka",
+      "last_updated": "1758248161",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qb4znvedv4j"
+      },
+      "volume": "02"
+    },
+    "15": {
+      "title": "Rodeo...!!",
+      "last_updated": "1758248186",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qe4gw6jeb7j"
+      },
+      "volume": "02"
+    },
+    "16": {
+      "title": "A Brief Defeat",
+      "last_updated": "1758248211",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/xny8mkv3d7b"
+      },
+      "volume": "02"
+    },
+    "17": {
+      "title": "Remember the Rules!",
+      "last_updated": "1758248247",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/a846dbwpv7x"
+      },
+      "volume": "03"
+    },
+    "18": {
+      "title": "Anri High School Appears!",
+      "last_updated": "1758248350",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/m9yx3arrkyq"
+      },
+      "volume": "03"
+    },
+    "19": {
+      "title": "National Level",
+      "last_updated": "1758248391",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/wl7lojggo7x"
+      },
+      "volume": "03"
+    },
+    "20": {
+      "title": "Aka's Weakness",
+      "last_updated": "1758248422",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ej7m8qwwjyd"
+      },
+      "volume": "03"
+    },
+    "21": {
+      "title": "A Major Upset...!",
+      "last_updated": "1758248446",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/n87wm5ddb4x"
+      },
+      "volume": "03"
+    },
+    "22": {
+      "title": "Reunion with Rivals...!",
+      "last_updated": "1758248468",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qb4znveev4j"
+      },
+      "volume": "03"
+    },
+    "23": {
+      "title": "Summer Enters!",
+      "last_updated": "1758248491",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qe4gw6jjb7j"
+      },
+      "volume": "03"
+    },
+    "24": {
+      "title": "Victory Shot!",
+      "last_updated": "1758248543",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/xny8mkvvd7b"
+      },
+      "volume": "03"
+    }
+  }
+}
