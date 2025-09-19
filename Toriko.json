@@ -1,0 +1,65 @@
+{
+  "title": "Toriko",
+  "description": "",
+  "artist": "SHIMABUKURO Mitsutoshi",
+  "author": "SHIMABUKURO Mitsutoshi",
+  "cover": "https://i0.wp.com/hiwamatanoboru.com/wp-content/uploads/2017/04/TorikoV01.png",
+  "chapters": {
+    "01": {
+      "title": "Bishokuya Toriko!!",
+      "last_updated": "1758249366",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/92493bw2a4n"
+      },
+      "volume": "01"
+    },
+    "02": {
+      "title": "Fork & Knife!!",
+      "last_updated": "1758249401",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/dl7p8meakyo"
+      },
+      "volume": "01"
+    },
+    "03": {
+      "title": "Rainbow Fruit!!",
+      "last_updated": "1758249421",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/5xy22vaq8yl"
+      },
+      "volume": "01"
+    },
+    "04": {
+      "title": "Spiked Punch!!",
+      "last_updated": "1758249439",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/wl7lojgao7x"
+      },
+      "volume": "01"
+    },
+    "05": {
+      "title": "The Troll Kong Trap!!",
+      "last_updated": "1758249461",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/wl7lojga67x"
+      },
+      "volume": "01"
+    },
+    "06": {
+      "title": "Eat It or Leave It!!",
+      "last_updated": "1758249495",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9rydr8mqd7k"
+      },
+      "volume": "01"
+    },
+    "07": {
+      "title": "Inside Hotel Gourmet!!",
+      "last_updated": "1758249515",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/6eyrlw9akyp"
+      },
+      "volume": "01"
+    }
+  }
+}
