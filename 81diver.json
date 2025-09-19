@@ -1,0 +1,33 @@
+{
+  "title": "81diver",
+  "description": "",
+  "artist": "SHIBATA Yokusaru",
+  "author": "SHIBATA Yokusaru",
+  "cover": "https://m.media-amazon.com/images/I/71tjxpY1IVL._SL1200_.jpg",
+  "chapters": {
+    "35": {
+      "title": "The Ponape Island Man",
+      "last_updated": "1758249846",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qb4znvepg4j"
+      },
+      "volume": "04"
+    },
+    "36": {
+      "title": "Stamina",
+      "last_updated": "1758249859",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/bp45qbp6x45"
+      },
+      "volume": "04"
+    },
+    "37": {
+      "title": "I'm Gonna Sleep",
+      "last_updated": "1758249880",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/o24ajeqng4l"
+      },
+      "volume": "04"
+    }
+  }
+}
