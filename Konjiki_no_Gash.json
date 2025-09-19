@@ -1,0 +1,89 @@
+{
+  "title": "Konjiki no Gash!!",
+  "description": "",
+  "artist": "RAIKU Makoto",
+  "author": "RAIKU Makoto",
+  "cover": "https://m.media-amazon.com/images/I/A14m01VQ5xL._SL1500_.jpg",
+  "chapters": {
+    "163": {
+      "title": "We're Home",
+      "last_updated": "1758250825",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qe4gw6jkr7j"
+      },
+      "volume": "18"
+    },
+    "164": {
+      "title": "An Unnerving Stare",
+      "last_updated": "1758250838",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/a846dbwzw7x"
+      },
+      "volume": "18"
+    },
+    "165": {
+      "title": "Q - Versatile Transformation",
+      "last_updated": "1758250851",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/agyvr8qa978"
+      },
+      "volume": "18"
+    },
+    "166": {
+      "title": "Rise Above the Data",
+      "last_updated": "1758250864",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/92493bw524n"
+      },
+      "volume": "18"
+    },
+    "167": {
+      "title": "An Impossibility",
+      "last_updated": "1758250877",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9p4n8dwmz4n"
+      },
+      "volume": "18"
+    },
+    "168": {
+      "title": "Search for a Present!",
+      "last_updated": "1758250890",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/dl7p8mew6yo"
+      },
+      "volume": "18"
+    },
+    "169": {
+      "title": "The Boy Who Speaks the Wind",
+      "last_updated": "1758250903",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/md7o8rw3d4p"
+      },
+      "volume": "18"
+    },
+    "170": {
+      "title": "Ted and Jeed",
+      "last_updated": "1758250916",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/5xy22vamjyl"
+      },
+      "volume": "18"
+    },
+    "171": {
+      "title": "My Friend",
+      "last_updated": "1758250935",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/vj4j82kj278"
+      },
+      "volume": "18"
+    },
+    "172": {
+      "title": "The Power of Baou",
+      "last_updated": "1758250954",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9rydr8mow7k"
+      },
+      "volume": "18"
+    }
+  }
+}
