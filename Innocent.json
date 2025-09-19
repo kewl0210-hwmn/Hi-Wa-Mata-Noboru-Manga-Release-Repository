@@ -1,0 +1,57 @@
+{
+  "title": "Innocent",
+  "description": "",
+  "artist": "SAKAMOTO Shinichi",
+  "author": "SAKAMOTO Shinichi",
+  "cover": "https://i0.wp.com/hiwamatanoboru.com///wp-content/uploads/2017/04/Innocent_Rouge_v01.png?ssl=1",
+  "chapters": {
+    "001": {
+      "title": "",
+      "last_updated": "1758246143",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ne7bqz5em75"
+      },
+      "volume": "01"
+    },
+    "002": {
+      "title": "",
+      "last_updated": "1758246172",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/wl7loj9ex7x"
+      },
+      "volume": "01"
+    },
+    "003": {
+      "title": "",
+      "last_updated": "1758246197",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/6eyrlwvpxyp"
+      },
+      "volume": "01"
+    },
+    "004": {
+      "title": "",
+      "last_updated": "1758246220",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qb4znvda54j"
+      },
+      "volume": "01"
+    },
+    "005": {
+      "title": "",
+      "last_updated": "1758246245",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/bp45qb3an45"
+      },
+      "volume": "01"
+    },
+    "006": {
+      "title": "",
+      "last_updated": "1758246755",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/m9yx3ajzpyq"
+      },
+      "volume": "01"
+    }
+  }
+}
