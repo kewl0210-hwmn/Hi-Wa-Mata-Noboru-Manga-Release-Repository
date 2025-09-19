@@ -3,55 +3,375 @@
   "description": "",
   "artist": "SAKAMOTO Shinichi",
   "author": "SAKAMOTO Shinichi",
-  "cover": "https://i0.wp.com/hiwamatanoboru.com///wp-content/uploads/2017/04/Innocent_Rouge_v01.png?ssl=1",
+  "cover": "https://m.media-amazon.com/images/I/61JpO9pMKxL._SL1200_.jpg",
   "chapters": {
-    "001": {
-      "title": "",
-      "last_updated": "1758246143",
+    "054": {
+      "title": "Seven-Colored Dream Capital",
+      "last_updated": "1758245980",
       "groups": {
-        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ne7bqz5em75"
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9rydr8xga7k"
       },
-      "volume": "01"
+      "volume": "06"
     },
-    "002": {
-      "title": "",
-      "last_updated": "1758246172",
+    "055": {
+      "title": "Love of the Family of 'Darkness'",
+      "last_updated": "1758245997",
       "groups": {
-        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/wl7loj9ex7x"
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ej7m8q9b9yd"
       },
-      "volume": "01"
+      "volume": "06"
     },
-    "003": {
-      "title": "",
-      "last_updated": "1758246197",
+    "056": {
+      "title": "Maybe Me 'Ideals and Freedom'",
+      "last_updated": "1758246014",
       "groups": {
-        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/6eyrlwvpxyp"
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/n87wm5lkx4x"
       },
-      "volume": "01"
+      "volume": "06"
     },
-    "004": {
-      "title": "",
-      "last_updated": "1758246220",
+    "057": {
+      "title": "Volunteer for Beauty",
+      "last_updated": "1758246030",
       "groups": {
-        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qb4znvda54j"
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qb4znvdg54j"
       },
-      "volume": "01"
+      "volume": "06"
     },
-    "005": {
-      "title": "",
-      "last_updated": "1758246245",
+    "058": {
+      "title": "Pitch-Black Decapitation",
+      "last_updated": "1758246046",
       "groups": {
-        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/bp45qb3an45"
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/xny8mk3g27b"
       },
-      "volume": "01"
+      "volume": "06"
     },
-    "006": {
-      "title": "",
-      "last_updated": "1758246755",
+    "059": {
+      "title": "Fresh Blood Overture",
+      "last_updated": "1758246063",
       "groups": {
-        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/m9yx3ajzpyq"
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/bp45qb3wn45"
       },
-      "volume": "01"
+      "volume": "06"
+    },
+    "060": {
+      "title": "Decapitación de la Statue to Freedom",
+      "last_updated": "1758246079",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/a846dbpez7x"
+      },
+      "volume": "06"
+    },
+    "061": {
+      "title": "An 'Adieu' Overflowing with Love",
+      "last_updated": "1758246095",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/92493bv8b4n"
+      },
+      "volume": "06"
+    },
+    "062": {
+      "title": "Verdure Encounter",
+      "last_updated": "1758246115",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9p4n8dnpb4n"
+      },
+      "volume": "06"
+    },
+    "063": {
+      "title": "The Worship of 'Death'",
+      "last_updated": "1758246131",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/md7o8r9224p"
+      },
+      "volume": "06"
+    },
+    "064": {
+      "title": "Invitation to the Palace of Versailles",
+      "last_updated": "1758246153",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/5xy22vdwzyl"
+      },
+      "volume": "06"
+    },
+    "065": {
+      "title": "Beautiful Executioner",
+      "last_updated": "1758246177",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/vj4j829r378"
+      },
+      "volume": "07"
+    },
+    "066": {
+      "title": "The Lawsuit of a Certain Marquise",
+      "last_updated": "1758246191",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ej7m8q9g9yd"
+      },
+      "volume": "07"
+    },
+    "067": {
+      "title": "The Darkness that Dwells in tha Palace",
+      "last_updated": "1758246205",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/n87wm5lwx4x"
+      },
+      "volume": "07"
+    },
+    "068": {
+      "title": "A Light of Justice",
+      "last_updated": "1758246218",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qe4gw6eoq7j"
+      },
+      "volume": "07"
+    },
+    "069": {
+      "title": "The Executioner Dressed in Blue",
+      "last_updated": "1758246233",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/xny8mk3b27b"
+      },
+      "volume": "07"
+    },
+    "07": {
+      "title": "Premonition of a White Storm1",
+      "last_updated": "1758246249",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/agyvr82mb78"
+      },
+      "volume": "07"
+    },
+    "070": {
+      "title": "Charles' Self-Defense",
+      "last_updated": "1758246264",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/92493bvob4n"
+      },
+      "volume": "07"
+    },
+    "072": {
+      "title": "The Miracle Bride",
+      "last_updated": "1758246277",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ne7bqz58m75"
+      },
+      "volume": "07"
+    },
+    "073": {
+      "title": "Sacrificial Rose",
+      "last_updated": "1758246290",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/dl7p8mvx3yo"
+      },
+      "volume": "07"
+    },
+    "074": {
+      "title": "Picaresque Girl",
+      "last_updated": "1758246306",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/na7k8lo3378"
+      },
+      "volume": "07"
+    },
+    "075": {
+      "title": "'Blood' Conflict",
+      "last_updated": "1758246329",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/wl7lojgzx7x"
+      },
+      "volume": "07"
+    },
+    "076": {
+      "title": "Star Carrying Bride",
+      "last_updated": "1758246352",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ljyq23xgdy2"
+      },
+      "volume": "08"
+    },
+    "077": {
+      "title": "Fête de Blue (Feast of Blue)",
+      "last_updated": "1758246370",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/pg73lxgkg7r"
+      },
+      "volume": "08"
+    },
+    "078": {
+      "title": "The Crowned Princess Starts Life Anew",
+      "last_updated": "1758246385",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qb4znve654j"
+      },
+      "volume": "08"
+    },
+    "079": {
+      "title": "Blade of Fate",
+      "last_updated": "1758246401",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qe4gw6jvq7j"
+      },
+      "volume": "08"
+    },
+    "080": {
+      "title": "Overripe Intellect",
+      "last_updated": "1758246416",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/o24ajeqxd4l"
+      },
+      "volume": "08"
+    },
+    "081": {
+      "title": "Heavenly Body's Eureka",
+      "last_updated": "1758246431",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/agyvr8qzb78"
+      },
+      "volume": "08"
+    },
+    "082": {
+      "title": "Red Libido",
+      "last_updated": "1758246447",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/m9yx3arxpyq"
+      },
+      "volume": "08"
+    },
+    "083": {
+      "title": "Rose Vow",
+      "last_updated": "1758246461",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ne7bqzdgm75"
+      },
+      "volume": "08"
+    },
+    "084": {
+      "title": "Pure Blasphemy",
+      "last_updated": "1758246483",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/dl7p8meg3yo"
+      },
+      "volume": "08"
+    },
+    "085": {
+      "title": "Kindred du Paradoxe",
+      "last_updated": "1758246498",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/na7k8lmx378"
+      },
+      "volume": "08"
+    },
+    "086": {
+      "title": "Pure Duel",
+      "last_updated": "1758246513",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/5xy22vapzyl"
+      },
+      "volume": "08"
+    },
+    "087": {
+      "title": "Burning Sword",
+      "last_updated": "1758246531",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/wl7lojgxx7x"
+      },
+      "volume": "08"
+    },
+    "088": {
+      "title": "Familial Love",
+      "last_updated": "1758246558",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/vj4j82kd378"
+      },
+      "volume": "09"
+    },
+    "089": {
+      "title": "'Karma' Inheritance",
+      "last_updated": "1758246576",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9rydr8m5a7k"
+      },
+      "volume": "09"
+    },
+    "090": {
+      "title": "Birdcage Ecstasy",
+      "last_updated": "1758246591",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ej7m8qwm9yd"
+      },
+      "volume": "09"
+    },
+    "091": {
+      "title": "Freedom and Order",
+      "last_updated": "1758246604",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/pg73lxg9g7r"
+      },
+      "volume": "09"
+    },
+    "092": {
+      "title": "Garden of Carnage",
+      "last_updated": "1758246621",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/n87wm5d6x4x"
+      },
+      "volume": "09"
+    },
+    "093": {
+      "title": "Piercing Will",
+      "last_updated": "1758246636",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/lqyem523m7d"
+      },
+      "volume": "09"
+    },
+    "094": {
+      "title": "Innocent World",
+      "last_updated": "1758246652",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qb4znve954j"
+      },
+      "volume": "09"
+    },
+    "095": {
+      "title": "Petite Marie's Marriage",
+      "last_updated": "1758246668",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/xny8mkvx27b"
+      },
+      "volume": "09"
+    },
+    "096": {
+      "title": "The Gale Knight",
+      "last_updated": "1758246684",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/a846dbwaz7x"
+      },
+      "volume": "09"
+    },
+    "097": {
+      "title": "Marie's First Love",
+      "last_updated": "1758246700",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/m9yx3arkpyq"
+      },
+      "volume": "09"
+    },
+    "098": {
+      "title": "Far Off Ideal",
+      "last_updated": "1758246715",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9p4n8dweb4n"
+      },
+      "volume": "09"
+    },
+    "099": {
+      "title": "Rouge Vow",
+      "last_updated": "1758246739",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/md7o8rwg24p"
+      },
+      "volume": "09"
     }
   }
 }
