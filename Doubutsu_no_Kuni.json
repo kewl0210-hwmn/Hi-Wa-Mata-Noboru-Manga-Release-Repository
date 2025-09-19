@@ -1,0 +1,449 @@
+{
+  "title": "Doubutsu no Kuni",
+  "description": "",
+  "artist": "RAIKU Makoto",
+  "author": "RAIKU Makoto",
+  "cover": "https://i0.wp.com/hiwamatanoboru.com/wp-content/uploads/2017/04/DoubutsuNoKuniV01.jpg",
+  "chapters": {
+    "001": {
+      "title": "Hello, Baby",
+      "last_updated": "1758242948",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ej7m8q9ljyd"
+      },
+      "volume": "01"
+    },
+    "002": {
+      "title": "Baby's Power",
+      "last_updated": "1758242991",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qe4gw6e5b7j"
+      },
+      "volume": "01"
+    },
+    "003": {
+      "title": "Baby, Cry by Name!",
+      "last_updated": "1758243040",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/o24aje38w4l"
+      },
+      "volume": "01"
+    },
+    "004": {
+      "title": "Tarouza Kidnapped",
+      "last_updated": "1758243095",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ne7bqz5qv75"
+      },
+      "volume": "02"
+    },
+    "005": {
+      "title": "We Couldn't Live in Any Way But This One",
+      "last_updated": "1758243144",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/vj4j8298e78"
+      },
+      "volume": "02"
+    },
+    "006": {
+      "title": "Spring Sunlight is for All Animals",
+      "last_updated": "1758243196",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9rydr8xrd7k"
+      },
+      "volume": "02"
+    },
+    "007": {
+      "title": "Star of Fate",
+      "last_updated": "1758243253",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/lqyem5amx7d"
+      },
+      "volume": "02"
+    },
+    "008": {
+      "title": "7 Years of Time Passes",
+      "last_updated": "1758243299",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/bp45qb3mx45"
+      },
+      "volume": "03"
+    },
+    "009": {
+      "title": "Princess Capri and the Lions, GAOO!",
+      "last_updated": "1758243339",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/dl7p8mva8yo"
+      },
+      "volume": "03"
+    },
+    "010": {
+      "title": "Monoko's Power, Tarouza's Power",
+      "last_updated": "1758243377",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9rydr8xqd7k"
+      },
+      "volume": "03"
+    },
+    "010.5": {
+      "title": "Doubutsu no Kuni Episode 0",
+      "last_updated": "1758243422",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/o24aje36g4l"
+      },
+      "volume": "03"
+    },
+    "011": {
+      "title": "Cruel Reality",
+      "last_updated": "1758243473",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/5xy22vdonyl"
+      },
+      "volume": "04"
+    },
+    "012": {
+      "title": "Tarouza's Cry",
+      "last_updated": "1758243523",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9rydr8x2d7k"
+      },
+      "volume": "04"
+    },
+    "013": {
+      "title": "It's a Festival! Everybody Gather Round!!",
+      "last_updated": "1758243562",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/n87wm5ln34x"
+      },
+      "volume": "04"
+    },
+    "014": {
+      "title": "Jyuu, Beast, Freedom",
+      "last_updated": "1758243602",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/o24aje3ng4l"
+      },
+      "volume": "04"
+    },
+    "015": {
+      "title": "Tarouza's Truth",
+      "last_updated": "1758243657",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/md7o8r95a4p"
+      },
+      "volume": "05"
+    },
+    "016": {
+      "title": "The Power of Fire, the Power of Numbers, the Power of Pinta",
+      "last_updated": "1758243701",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9rydr8xnd7k"
+      },
+      "volume": "05"
+    },
+    "017": {
+      "title": "Journeys Are a Risk to One's Life",
+      "last_updated": "1758243740",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/lqyem5anx7d"
+      },
+      "volume": "05"
+    },
+    "018": {
+      "title": "Ena",
+      "last_updated": "1758243779",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/agyvr82lw78"
+      },
+      "volume": "05"
+    },
+    "019": {
+      "title": "The Humans of Animal Country",
+      "last_updated": "1758243843",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/na7k8lonk78"
+      },
+      "volume": "06"
+    },
+    "020": {
+      "title": "The Eternity Fruits",
+      "last_updated": "1758243883",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9rydr8xew7k"
+      },
+      "volume": "06"
+    },
+    "021": {
+      "title": "The Animal that is Not an Animal",
+      "last_updated": "1758243922",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ej7m8q96byd"
+      },
+      "volume": "06"
+    },
+    "021.5": {
+      "title": "The World that Tarouza is in",
+      "last_updated": "1758243964",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/n87wm5l8z4x"
+      },
+      "volume": "06"
+    },
+    "022": {
+      "title": "Seeds of Light, Legacy of Darkness",
+      "last_updated": "1758244018",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/bp45qb3j245"
+      },
+      "volume": "07"
+    },
+    "023": {
+      "title": "Llama Waterfall",
+      "last_updated": "1758244060",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/m9yx3aj53yq"
+      },
+      "volume": "07"
+    },
+    "024": {
+      "title": "Kuou Note",
+      "last_updated": "1758244101",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/md7o8r9dd4p"
+      },
+      "volume": "07"
+    },
+    "025": {
+      "title": "Kuou Takamine",
+      "last_updated": "1758244149",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9rydr8x3w7k"
+      },
+      "volume": "07"
+    },
+    "026": {
+      "title": "Monoko",
+      "last_updated": "1758244216",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/lqyem5ao37d"
+      },
+      "volume": "08"
+    },
+    "027": {
+      "title": "Rebels",
+      "last_updated": "1758244271",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9p4n8dnmz4n"
+      },
+      "volume": "08"
+    },
+    "028": {
+      "title": "Things that Don't Change and Things that Changed",
+      "last_updated": "1758244308",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/wl7loj9dp7x"
+      },
+      "volume": "08"
+    },
+    "029": {
+      "title": "Lion Queen",
+      "last_updated": "1758244345",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/6eyrlwvzeyp"
+      },
+      "volume": "08"
+    },
+    "030": {
+      "title": "Animals with Wills",
+      "last_updated": "1758244400",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qe4gw6e3r7j"
+      },
+      "volume": "09"
+    },
+    "031": {
+      "title": "Animals that Seek a Different World",
+      "last_updated": "1758244440",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/a846dbpmw7x"
+      },
+      "volume": "09"
+    },
+    "032": {
+      "title": "The Tower of Babel",
+      "last_updated": "1758244482",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/92493bve24n"
+      },
+      "volume": "09"
+    },
+    "033": {
+      "title": "Catherine",
+      "last_updated": "1758244525",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ne7bqz5jn75"
+      },
+      "volume": "09"
+    },
+    "034": {
+      "title": "Angry Animals",
+      "last_updated": "1758244581",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/vj4j829z278"
+      },
+      "volume": "10"
+    },
+    "035": {
+      "title": "Luke's Questions",
+      "last_updated": "1758244620",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/6eyrlwvbeyp"
+      },
+      "volume": "10"
+    },
+    "036": {
+      "title": "Luke's Point of View",
+      "last_updated": "1758244659",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qe4gw6e9r7j"
+      },
+      "volume": "10"
+    },
+    "037": {
+      "title": "Tarouza",
+      "last_updated": "1758244701",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/bp45qb3v245"
+      },
+      "volume": "10"
+    },
+    "038": {
+      "title": "Babel Three",
+      "last_updated": "1758244761",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/dl7p8mvp6yo"
+      },
+      "volume": "11"
+    },
+    "039": {
+      "title": "Animals that Connect to Hope",
+      "last_updated": "1758244804",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/na7k8lopq78"
+      },
+      "volume": "11"
+    },
+    "040": {
+      "title": "The Face of Hope",
+      "last_updated": "1758244846",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/vj4j829p278"
+      },
+      "volume": "11"
+    },
+    "041": {
+      "title": "Dougen",
+      "last_updated": "1758244889",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ljyq23vpny2"
+      },
+      "volume": "11"
+    },
+    "042": {
+      "title": "Robin of the Babel Three",
+      "last_updated": "1758244939",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/n87wm5l5g4x"
+      },
+      "volume": "12"
+    },
+    "043": {
+      "title": "Capri Luce",
+      "last_updated": "1758244978",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qe4gw6e6j7j"
+      },
+      "volume": "12"
+    },
+    "044": {
+      "title": "Awakening",
+      "last_updated": "1758245017",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9p4n8dndm4n"
+      },
+      "volume": "12"
+    },
+    "045": {
+      "title": "Declaration of Death",
+      "last_updated": "1758245068",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9rydr8xbl7k"
+      },
+      "volume": "12"
+    },
+    "046": {
+      "title": "The Most Evil Animal",
+      "last_updated": "1758245129",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/xny8mk3j57b"
+      },
+      "volume": "13"
+    },
+    "047": {
+      "title": "Great Devil War",
+      "last_updated": "1758245171",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9p4n8dnbm4n"
+      },
+      "volume": "13"
+    },
+    "048": {
+      "title": "Kuou's Cry",
+      "last_updated": "1758245209",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/md7o8r9or4p"
+      },
+      "volume": "13"
+    },
+    "049": {
+      "title": "Kuou's Thoughts, Elaine's Heart",
+      "last_updated": "1758245252",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/wl7loj9bq7x"
+      },
+      "volume": "13"
+    },
+    "050": {
+      "title": "Giller Second",
+      "last_updated": "1758245322",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ej7m8q9xnyd"
+      },
+      "volume": "14"
+    },
+    "051": {
+      "title": "Gaia Spinal",
+      "last_updated": "1758245357",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qe4gw6egj7j"
+      },
+      "volume": "14"
+    },
+    "052": {
+      "title": "Tarouza's Journey",
+      "last_updated": "1758245397",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/a846dbpjo7x"
+      },
+      "volume": "14"
+    },
+    "053": {
+      "title": "Animal Country",
+      "last_updated": "1758245466",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ne7bqz5mj75"
+      },
+      "volume": "14"
+    }
+  }
+}
