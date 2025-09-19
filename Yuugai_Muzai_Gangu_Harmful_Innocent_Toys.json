@@ -1,0 +1,37 @@
+{
+  "title": "Yuugai Muzai Gangu (Harmful Innocent Toys)",
+  "description": "",
+  "artist": "SHINO Ura",
+  "author": "SHINO Ura",
+  "cover": "https://i0.wp.com/hiwamatanoboru.com/wp-content/uploads/2021/04/Yuugai_Muzai_Gangu_ch000_000a.png",
+  "chapters": {
+    "001": {
+      "title": "Harmful Innocent Toys (Toys Harmful but Unprohibited)",
+      "last_updated": "1758244534",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9p4n8dnaz4n"
+      }
+    },
+    "002": {
+      "title": "Imaginary Time Recreation (A Pastime in Imaginary Time)",
+      "last_updated": "1758244590",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ljyq23vboy2"
+      }
+    },
+    "003": {
+      "title": "The Goldfish Mermaid is a Mermaid Goldfish (Goldfish Mermaid)",
+      "last_updated": "1758244680",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/pg73lxrqz7r"
+      }
+    },
+    "004": {
+      "title": "To the Tray, Spilt Water. To the Tray, Not Returnig (Water in the Past)",
+      "last_updated": "1758244724",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/92493bvn24n"
+      }
+    }
+  }
+}
