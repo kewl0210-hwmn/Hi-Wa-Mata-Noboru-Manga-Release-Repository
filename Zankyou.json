@@ -1,0 +1,161 @@
+{
+  "title": "Zankyou",
+  "description": "",
+  "artist": "TAKAHASHI Tsutomu",
+  "author": "TAKAHASHI Tsutomu",
+  "cover": "https://i0.wp.com/hiwamatanoboru.com/wp-content/uploads/2018/02/Zankyou_v01.png",
+  "chapters": {
+    "01": {
+      "title": "Trigger",
+      "last_updated": "1758248792",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9p4n8dwjl4n"
+      },
+      "volume": "01"
+    },
+    "02": {
+      "title": "TT Pistol",
+      "last_updated": "1758248828",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/na7k8lmvm78"
+      },
+      "volume": "01"
+    },
+    "03": {
+      "title": "Destruction",
+      "last_updated": "1758248857",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/wl7lojg2o7x"
+      },
+      "volume": "01"
+    },
+    "04": {
+      "title": "Complication",
+      "last_updated": "1758248896",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/vj4j82kge78"
+      },
+      "volume": "01"
+    },
+    "05": {
+      "title": "Diagonal",
+      "last_updated": "1758248929",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/n87wm5dxb4x"
+      },
+      "volume": "01"
+    },
+    "06": {
+      "title": "Vicissitudes",
+      "last_updated": "1758248961",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/bp45qbp5g45"
+      },
+      "volume": "02"
+    },
+    "07": {
+      "title": "Bay",
+      "last_updated": "1758248982",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/m9yx3ar3kyq"
+      },
+      "volume": "02"
+    },
+    "08": {
+      "title": "Kandori Shimako",
+      "last_updated": "1758249007",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ne7bqzdqv75"
+      },
+      "volume": "02"
+    },
+    "09": {
+      "title": "Ensnarement",
+      "last_updated": "1758249032",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/md7o8rw894p"
+      },
+      "volume": "02"
+    },
+    "10": {
+      "title": "Pandemonium",
+      "last_updated": "1758249055",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/5xy22va28yl"
+      },
+      "volume": "02"
+    },
+    "11": {
+      "title": "Counterattack",
+      "last_updated": "1758249081",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/wl7lojgoo7x"
+      },
+      "volume": "02"
+    },
+    "12": {
+      "title": "Ceremonial Bonfire",
+      "last_updated": "1758249107",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9rydr8mrn7k"
+      },
+      "volume": "02"
+    },
+    "13": {
+      "title": "Purgatory",
+      "last_updated": "1758249137",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ej7m8qw8jyd"
+      },
+      "volume": "03"
+    },
+    "14": {
+      "title": "Alignment",
+      "last_updated": "1758249160",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/n87wm5dmb4x"
+      },
+      "volume": "03"
+    },
+    "15": {
+      "title": "Mommy",
+      "last_updated": "1758249185",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/lqyem52mk7d"
+      },
+      "volume": "03"
+    },
+    "16": {
+      "title": "Nirvana",
+      "last_updated": "1758249208",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qb4znvenv4j"
+      },
+      "volume": "03"
+    },
+    "17": {
+      "title": "Carnage",
+      "last_updated": "1758249233",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/xny8mkvmd7b"
+      },
+      "volume": "03"
+    },
+    "18": {
+      "title": "Separation",
+      "last_updated": "1758249256",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/bp45qbpqg45"
+      },
+      "volume": "03"
+    },
+    "19": {
+      "title": "Reverberation",
+      "last_updated": "1758249282",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/agyvr8qxz78"
+      },
+      "volume": "03"
+    }
+  }
+}
