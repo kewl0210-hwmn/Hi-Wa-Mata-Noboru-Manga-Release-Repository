@@ -1,0 +1,58 @@
+{
+  "title": "Gishi Sanjinden (Falsified History: An Account of the Sanjin (Mountain People))",
+  "description": "",
+  "artist": "SHINO Ura",
+  "author": "SHINO Ura",
+  "cover": "https://i0.wp.com/hiwamatanoboru.com/wp-content/uploads/2022/09/Gishi_Sanjinden_ch000_000.png",
+  "chapters": {
+    "001": {
+      "title": "Sunda, at Water Town",
+      "last_updated": "1758244081",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/dl7p8mvr6yo"
+      }
+    },
+    "002": {
+      "title": "Incidental Details of a Mermaid River (View Point from the Mermaid River)",
+      "last_updated": "1758244121",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/wl7loj9lp7x"
+      }
+    },
+    "003": {
+      "title": "Standing Like a Human",
+      "last_updated": "1758244148",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/pg73lxr2z7r"
+      }
+    },
+    "004": {
+      "title": "Sisters Face Cat",
+      "last_updated": "1758244176",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/n87wm5l2z4x"
+      }
+    },
+    "005": {
+      "title": "Modern Street Myth (Mythology of the Modern Street)",
+      "last_updated": "1758244235",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qb4znvdq34j"
+      }
+    },
+    "006": {
+      "title": "Falsified History An Account of the Sanjin (Fake Biography of SANJIN)",
+      "last_updated": "1758244285",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/dl7p8mvw6yo"
+      }
+    },
+    "007": {
+      "title": "Existence Collection (Collective Work of Existence)",
+      "last_updated": "1758244334",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ljyq23veoy2"
+      }
+    }
+  }
+}
