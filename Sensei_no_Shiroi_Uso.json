@@ -1,0 +1,401 @@
+{
+  "title": "Sensei no Shiroi Uso",
+  "description": "",
+  "artist": "TORIKAI Akane",
+  "author": "TORIKAI Akane",
+  "cover": "https://i0.wp.com/hiwamatanoboru.com///wp-content/uploads/2018/03/Sensei_no_Shiroi_Uso_v01.png",
+  "chapters": {
+    "001": {
+      "title": "Sensei's Monday",
+      "last_updated": "1758517495",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9rydrw9jl7k"
+      },
+      "volume": "01"
+    },
+    "002": {
+      "title": "Don't Judge a Book by its Cover",
+      "last_updated": "1758517518",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ej7m8xp3nyd"
+      },
+      "volume": "01"
+    },
+    "003": {
+      "title": "Apology and Correction",
+      "last_updated": "1758517545",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/n87wm3peg4x"
+      },
+      "volume": "01"
+    },
+    "004": {
+      "title": "Something Like the Truth",
+      "last_updated": "1758517571",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/lqyemekqq7d"
+      },
+      "volume": "01"
+    },
+    "005": {
+      "title": "Swallowed",
+      "last_updated": "1758517597",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qe4gwg92j7j"
+      },
+      "volume": "01"
+    },
+    "006": {
+      "title": "Who Else is There",
+      "last_updated": "1758517623",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/xny8mdnq57b"
+      },
+      "volume": "01"
+    },
+    "007": {
+      "title": "All Girls",
+      "last_updated": "1758517663",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/o24ajr9a24l"
+      },
+      "volume": "02"
+    },
+    "008": {
+      "title": "Wild-Type",
+      "last_updated": "1758517688",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/a846djnlo7x"
+      },
+      "volume": "02"
+    },
+    "009": {
+      "title": "Bodies With Something Taken Away",
+      "last_updated": "1758517711",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/agyvrkpvj78"
+      },
+      "volume": "02"
+    },
+    "010": {
+      "title": "All X",
+      "last_updated": "1758517738",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/92493rndm4n"
+      },
+      "volume": "02"
+    },
+    "011": {
+      "title": "Commercial Value",
+      "last_updated": "1758517763",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ne7bqm92j75"
+      },
+      "volume": "02"
+    },
+    "012": {
+      "title": "Can We Talk",
+      "last_updated": "1758517794",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/dl7p82pkpyo"
+      },
+      "volume": "02"
+    },
+    "013": {
+      "title": "Exposure",
+      "last_updated": "1758517827",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/md7o8nper4p"
+      },
+      "volume": "03"
+    },
+    "014": {
+      "title": "Hole",
+      "last_updated": "1758517856",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/wl7lovp3q7x"
+      },
+      "volume": "03"
+    },
+    "015": {
+      "title": "You Are Being Controlled",
+      "last_updated": "1758517882",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/vj4j8apqx78"
+      },
+      "volume": "03"
+    },
+    "016": {
+      "title": "If It Gets Scary, Call For Help",
+      "last_updated": "1758517909",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ljyq2lp8ny2"
+      },
+      "volume": "03"
+    },
+    "017": {
+      "title": "There Was Love",
+      "last_updated": "1758517934",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/wl7lovp9x7x"
+      },
+      "volume": "03"
+    },
+    "018": {
+      "title": "Worried Person",
+      "last_updated": "1758517961",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/vj4j8ap9378"
+      },
+      "volume": "03"
+    },
+    "019": {
+      "title": "Red Mouth",
+      "last_updated": "1758517992",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9rydrw9xa7k"
+      },
+      "volume": "04"
+    },
+    "020": {
+      "title": "Morning Bell",
+      "last_updated": "1758518018",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/6eyrljkvxyp"
+      },
+      "volume": "04"
+    },
+    "021": {
+      "title": "It's Still Not The Worst",
+      "last_updated": "1758518045",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/pg73lnarg7r"
+      },
+      "volume": "04"
+    },
+    "022": {
+      "title": "Congratulations",
+      "last_updated": "1758518068",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/n87wm3plx4x"
+      },
+      "volume": "04"
+    },
+    "023": {
+      "title": "I Have a Baby in my Belly",
+      "last_updated": "1758518093",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qb4znz2d54j"
+      },
+      "volume": "04"
+    },
+    "024": {
+      "title": "What Even Is Happiness",
+      "last_updated": "1758518119",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qe4gwg9eq7j"
+      },
+      "volume": "04"
+    },
+    "025": {
+      "title": "What Even Is Happiness 2",
+      "last_updated": "1758518159",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/xny8mdn327b"
+      },
+      "volume": "04"
+    },
+    "026": {
+      "title": "Corpus Cavernosum",
+      "last_updated": "1758518182",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/o24ajr93d4l"
+      },
+      "volume": "05"
+    },
+    "027": {
+      "title": "10,000 Yen",
+      "last_updated": "1758518206",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/a846djnpz7x"
+      },
+      "volume": "05"
+    },
+    "028": {
+      "title": "Rain",
+      "last_updated": "1758518235",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/92493rnvb4n"
+      },
+      "volume": "05"
+    },
+    "029": {
+      "title": "Say You Like",
+      "last_updated": "1758518259",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ne7bqm95m75"
+      },
+      "volume": "05"
+    },
+    "030": {
+      "title": "The Thing Called Love",
+      "last_updated": "1758518283",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/dl7p82pv3yo"
+      },
+      "volume": "05"
+    },
+    "031": {
+      "title": "Bodily Fluids",
+      "last_updated": "1758518306",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/na7k86po378"
+      },
+      "volume": "05"
+    },
+    "032": {
+      "title": "Weak",
+      "last_updated": "1758518340",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/5xy2295azyl"
+      },
+      "volume": "06"
+    },
+    "033": {
+      "title": "The Light Shining Into the Darkness",
+      "last_updated": "1758518361",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/wl7lovpgx7x"
+      },
+      "volume": "06"
+    },
+    "034": {
+      "title": "Carrying the Anger That Won't Disappear Underfoot",
+      "last_updated": "1758518388",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ljyq2lpxdy2"
+      },
+      "volume": "06"
+    },
+    "035": {
+      "title": "Normal Guys are Good",
+      "last_updated": "1758518414",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9rydrw9ma7k"
+      },
+      "volume": "06"
+    },
+    "036": {
+      "title": "The Choices Are Infinite",
+      "last_updated": "1758518435",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/n87wm3pdx4x"
+      },
+      "volume": "06"
+    },
+    "037": {
+      "title": "Showdown",
+      "last_updated": "1758518463",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qb4znz2e54j"
+      },
+      "volume": "06"
+    },
+    "038": {
+      "title": "A Long Way From Home",
+      "last_updated": "1758518495",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qe4gwg9jq7j"
+      },
+      "volume": "07"
+    },
+    "039": {
+      "title": "Escape",
+      "last_updated": "1758518519",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/xny8mdnv27b"
+      },
+      "volume": "07"
+    },
+    "040": {
+      "title": "On the Other Side of the Lockers",
+      "last_updated": "1758518542",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/o24ajr9qd4l"
+      },
+      "volume": "07"
+    },
+    "041": {
+      "title": "Visitor",
+      "last_updated": "1758518567",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/a846djnwz7x"
+      },
+      "volume": "07"
+    },
+    "042": {
+      "title": "Last Date",
+      "last_updated": "1758518588",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/92493rnwb4n"
+      },
+      "volume": "07"
+    },
+    "043": {
+      "title": "The Two That Travel Through the Night",
+      "last_updated": "1758518618",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9p4n89owb4n"
+      },
+      "volume": "07"
+    },
+    "044": {
+      "title": "Final Lesson",
+      "last_updated": "1758518645",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/md7o8npw24p"
+      },
+      "volume": "08"
+    },
+    "045": {
+      "title": "Just Being Alive is Bad Enough",
+      "last_updated": "1758518668",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/5xy22958zyl"
+      },
+      "volume": "08"
+    },
+    "046": {
+      "title": "Bangs",
+      "last_updated": "1758518692",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/vj4j8apg378"
+      },
+      "volume": "08"
+    },
+    "047": {
+      "title": "What Someone Like Me Can Do",
+      "last_updated": "1758518716",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ljyq2lprdy2"
+      },
+      "volume": "08"
+    },
+    "048": {
+      "title": "How Are You",
+      "last_updated": "1758518737",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/6eyrljkmxyp"
+      },
+      "volume": "08"
+    },
+    "049": {
+      "title": "With You From the Beginning",
+      "last_updated": "1758518764",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/pg73lna5g7r"
+      },
+      "volume": "08"
+    }
+  }
+}
