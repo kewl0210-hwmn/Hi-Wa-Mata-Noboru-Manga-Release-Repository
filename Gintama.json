@@ -1935,17 +1935,17 @@
     },
     "614": {
       "title": "The Second Son Tends to get Forgotten About",
-      "last_updated": "1758503206",
+      "last_updated": "1765866880",
       "groups": {
-        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/m9yx3wln6yq"
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/wl7lwolxo4x"
       },
       "volume": "68"
     },
     "615": {
       "title": "You Should Treasure Everything that has 'Ball' in the Name",
-      "last_updated": "1758503220",
+      "last_updated": "1765866889",
       "groups": {
-        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9p4n89mz54n"
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ljyqk2m9ky2"
       },
       "volume": "68"
     },
@@ -2700,6 +2700,654 @@
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9ryd2mjqa4k"
       },
       "volume": "40"
+    },
+    "503": {
+      "title": "A Horse From a Gourd",
+      "last_updated": "1765866429",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/o24a6jmreyl"
+      },
+      "volume": "56"
+    },
+    "505": {
+      "title": "Villains and Policemen",
+      "last_updated": "1765866430",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/bp45oqnlv75"
+      },
+      "volume": "56"
+    },
+    "506": {
+      "title": "Shinobi Country",
+      "last_updated": "1765866431",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/agyvnrlkk48"
+      },
+      "volume": "56"
+    },
+    "504": {
+      "title": "A Shogun's Duty and a Shinobi's Duty",
+      "last_updated": "1765866431",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/a846od9j24x"
+      },
+      "volume": "56"
+    },
+    "508": {
+      "title": "Soul of the Shinobi",
+      "last_updated": "1765866449",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9249k39r8yn"
+      },
+      "volume": "57"
+    },
+    "507": {
+      "title": "Steel Peashooter",
+      "last_updated": "1765866449",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/m9yxn3qw67q"
+      },
+      "volume": "56"
+    },
+    "509": {
+      "title": "Proof (Scar)",
+      "last_updated": "1765866450",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9p4nz86954n"
+      },
+      "volume": "57"
+    },
+    "510": {
+      "title": "Samurai and Shinobi",
+      "last_updated": "1765866451",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ne7b6q3agy5"
+      },
+      "volume": "57"
+    },
+    "511": {
+      "title": "The Last 5 People",
+      "last_updated": "1765866468",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/dl7pn863jyo"
+      },
+      "volume": "57"
+    },
+    "513": {
+      "title": "Place to Go Back To",
+      "last_updated": "1765866472",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/5xy2o2gk34l"
+      },
+      "volume": "57"
+    },
+    "514": {
+      "title": "Those That Protect All",
+      "last_updated": "1765866473",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/md7ob8vml4p"
+      },
+      "volume": "57"
+    },
+    "512": {
+      "title": "Request",
+      "last_updated": "1765866480",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/na7kk8njw78"
+      },
+      "volume": "57"
+    },
+    "515": {
+      "title": "Battle to Take a Country and Quarrel Between Siblings",
+      "last_updated": "1765866487",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/wl7lwo6q34x"
+      },
+      "volume": "57"
+    },
+    "517": {
+      "title": "Each One's Samurai",
+      "last_updated": "1765866494",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/vj4jm86l948"
+      },
+      "volume": "58"
+    },
+    "516": {
+      "title": "Two Good-For-Nothings",
+      "last_updated": "1765866495",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ljyqk26wxy2"
+      },
+      "volume": "58"
+    },
+    "518": {
+      "title": "Fist",
+      "last_updated": "1765866502",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9ryd2rek64k"
+      },
+      "volume": "58"
+    },
+    "521": {
+      "title": "After the War, the Crow Caws",
+      "last_updated": "1765866514",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/n87wnmjaq7x"
+      },
+      "volume": "58"
+    },
+    "519": {
+      "title": "Enemies",
+      "last_updated": "1765866508",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/6eyrnl6el7p"
+      },
+      "volume": "58"
+    },
+    "520": {
+      "title": "Sakata Gintoki of Shouka Sonjuku",
+      "last_updated": "1765866512",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/pg73ol8eo7r"
+      },
+      "volume": "58"
+    },
+    "522": {
+      "title": "The Disciples of Shouyou",
+      "last_updated": "1765866517",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/lqyelmzxz4d"
+      },
+      "volume": "58"
+    },
+    "523": {
+      "title": "Resistance",
+      "last_updated": "1765866521",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qb4zpnrxlyj"
+      },
+      "volume": "58"
+    },
+    "524": {
+      "title": "Farewell, Pal",
+      "last_updated": "1765866526",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/xny86m9aw4b"
+      },
+      "volume": "58"
+    },
+    "526": {
+      "title": "The Day the Demon Cried",
+      "last_updated": "1765866532",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/bp45oqngv75"
+      },
+      "volume": "59"
+    },
+    "527": {
+      "title": "New Ones and Old Ones",
+      "last_updated": "1765866535",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/a846od9824x"
+      },
+      "volume": "59"
+    },
+    "525": {
+      "title": "3 Sake Cups",
+      "last_updated": "1765866535",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/o24a6jm5eyl"
+      },
+      "volume": "59"
+    },
+    "528": {
+      "title": "Heroes Show Up Late",
+      "last_updated": "1765866540",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/agyvnrl5k48"
+      },
+      "volume": "59"
+    },
+    "529": {
+      "title": "Forgotten Thing",
+      "last_updated": "1765866546",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/m9yxn3q667q"
+      },
+      "volume": "59"
+    },
+    "530": {
+      "title": "The Shogun and the Villains (Joui Patriots)",
+      "last_updated": "1765866551",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9p4nz86r54n"
+      },
+      "volume": "59"
+    },
+    "531": {
+      "title": "Jailbreak",
+      "last_updated": "1765866553",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ne7b6q3egy5"
+      },
+      "volume": "59"
+    },
+    "532": {
+      "title": "Festival",
+      "last_updated": "1765866555",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/dl7pn86ljyo"
+      },
+      "volume": "59"
+    },
+    "533": {
+      "title": "Stray Dogs",
+      "last_updated": "1765866560",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/md7ob8v2l4p"
+      },
+      "volume": "59"
+    },
+    "534": {
+      "title": "Iron Rules of Surveillance",
+      "last_updated": "1765866569",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/na7kk8n9w78"
+      },
+      "volume": "60"
+    },
+    "536": {
+      "title": "Two Generals",
+      "last_updated": "1765866576",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/wl7lwo6n34x"
+      },
+      "volume": "60"
+    },
+    "535": {
+      "title": "Shinsengumi Kyokuchuu Hatto Article 47",
+      "last_updated": "1765866580",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/vj4jm86x948"
+      },
+      "volume": "60"
+    },
+    "537": {
+      "title": "'That Name is'",
+      "last_updated": "1765866587",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ljyqk26jxy2"
+      },
+      "volume": "60"
+    },
+    "538": {
+      "title": "True Path",
+      "last_updated": "1765866589",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9ryd2reg64k"
+      },
+      "volume": "60"
+    },
+    "539": {
+      "title": "Undelivered Email",
+      "last_updated": "1765866591",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/6eyrnl6ql7p"
+      },
+      "volume": "60"
+    },
+    "540": {
+      "title": "Villain",
+      "last_updated": "1765866594",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ej7me86bayd"
+      },
+      "volume": "60"
+    },
+    "541": {
+      "title": "Star of Freedom",
+      "last_updated": "1765866601",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/n87wnmjkq7x"
+      },
+      "volume": "60"
+    },
+    "542": {
+      "title": "Shinigami",
+      "last_updated": "1765866603",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/lqyelmz8z4d"
+      },
+      "volume": "60"
+    },
+    "543": {
+      "title": "Signal Fire",
+      "last_updated": "1765866605",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qb4zpnrglyj"
+      },
+      "volume": "61"
+    },
+    "544": {
+      "title": "Memories of the Sword",
+      "last_updated": "1765866608",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qe4gqw8ak7j"
+      },
+      "volume": "61"
+    },
+    "545": {
+      "title": "Karma",
+      "last_updated": "1765866625",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/a846od9e24x"
+      },
+      "volume": "61"
+    },
+    "546": {
+      "title": "Last Address",
+      "last_updated": "1765866627",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/m9yxn3qe67q"
+      },
+      "volume": "61"
+    },
+    "548": {
+      "title": "Something Forgotten",
+      "last_updated": "1765866630",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ne7b6q38gy5"
+      },
+      "volume": "61"
+    },
+    "547": {
+      "title": "Mistake",
+      "last_updated": "1765866631",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9p4nz86p54n"
+      },
+      "volume": "61"
+    },
+    "549": {
+      "title": "Nobume",
+      "last_updated": "1765866640",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/dl7pn86xjyo"
+      },
+      "volume": "61"
+    },
+    "550": {
+      "title": "Farewell Shinsengumi",
+      "last_updated": "1765866640",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/md7ob8v6l4p"
+      },
+      "volume": "61"
+    },
+    "551": {
+      "title": "Farewell Shinsengumi (Latter Part)",
+      "last_updated": "1765866644",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/5xy2o2gw34l"
+      },
+      "volume": "61"
+    },
+    "552": {
+      "title": "The Monster and the Monster's Child",
+      "last_updated": "1765866646",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/wl7lwo6e34x"
+      },
+      "volume": "62"
+    },
+    "553": {
+      "title": "The Kiheitai's Final Day",
+      "last_updated": "1765866653",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ljyqk26nxy2"
+      },
+      "volume": "62"
+    },
+    "554": {
+      "title": "Ryuumyakyu",
+      "last_updated": "1765866657",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/5xy2o2gw84l"
+      },
+      "volume": "62"
+    },
+    "555": {
+      "title": "Request for Leave of Absence",
+      "last_updated": "1765866660",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/wl7lwo6eo4x"
+      },
+      "volume": "62"
+    },
+    "556": {
+      "title": "Worthless Thing",
+      "last_updated": "1765866661",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/vj4jm86re48"
+      },
+      "volume": "62"
+    },
+    "557": {
+      "title": "The No-Good Brats From That Era",
+      "last_updated": "1765866668",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ljyqk26nky2"
+      },
+      "volume": "62"
+    },
+    "558": {
+      "title": "Hometown",
+      "last_updated": "1765866670",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9ryd2revn4k"
+      },
+      "volume": "62"
+    },
+    "559": {
+      "title": "Scent",
+      "last_updated": "1765866675",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/6eyrnl6p67p"
+      },
+      "volume": "62"
+    },
+    "560": {
+      "title": "Final Blade",
+      "last_updated": "1765866678",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ej7me86gjyd"
+      },
+      "volume": "62"
+    },
+    "561": {
+      "title": "Warrior's Song",
+      "last_updated": "1765866686",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/pg73ol8z37r"
+      },
+      "volume": "62"
+    },
+    "562": {
+      "title": "The Noble Youth of Madness",
+      "last_updated": "1765866689",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qb4zpnravyj"
+      },
+      "volume": "63"
+    },
+    "564": {
+      "title": "Zura",
+      "last_updated": "1765866692",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/xny86m9bd4b"
+      },
+      "volume": "63"
+    },
+    "563": {
+      "title": "Runaway Kotarou",
+      "last_updated": "1765866693",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qe4gqw8ob7j"
+      },
+      "volume": "63"
+    },
+    "565": {
+      "title": "Toys",
+      "last_updated": "1765866698",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/o24a6jmzwyl"
+      },
+      "volume": "63"
+    },
+    "566": {
+      "title": "Two Fools",
+      "last_updated": "1765866701",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/agyvnrgzz48"
+      },
+      "volume": "63"
+    },
+    "568": {
+      "title": "Sky Ship",
+      "last_updated": "1765866703",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9249k3mxayn"
+      },
+      "volume": "63"
+    },
+    "567": {
+      "title": "Peak",
+      "last_updated": "1765866705",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/m9yxn35xk7q"
+      },
+      "volume": "63"
+    },
+    "569": {
+      "title": "The Swordsman's Moment",
+      "last_updated": "1765866714",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9p4nz8qgl4n"
+      },
+      "volume": "63"
+    },
+    "570": {
+      "title": "Pit of the Stomach (Abyss of the Innards)",
+      "last_updated": "1765866722",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/dl7pn8rgkyo"
+      },
+      "volume": "63"
+    },
+    "571": {
+      "title": "Manjuus and Breakfast",
+      "last_updated": "1765866723",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/md7ob8dz94p"
+      },
+      "volume": "63"
+    },
+    "573": {
+      "title": "10 Years",
+      "last_updated": "1765866730",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/5xy2o2xz84l"
+      },
+      "volume": "64"
+    },
+    "572": {
+      "title": "Place of Death",
+      "last_updated": "1765866730",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/na7kk82xm78"
+      },
+      "volume": "64"
+    },
+    "575": {
+      "title": "Old Friends and New Friends",
+      "last_updated": "1765866737",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/wl7lwolzo4x"
+      },
+      "volume": "64"
+    },
+    "576": {
+      "title": "Two Male Beasts",
+      "last_updated": "1765866739",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ljyqk2mgky2"
+      },
+      "volume": "64"
+    },
+    "577": {
+      "title": "Crybaby",
+      "last_updated": "1765866747",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/6eyrnl3r67p"
+      },
+      "volume": "64"
+    },
+    "578": {
+      "title": "Frog in a Well",
+      "last_updated": "1765866749",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ej7me8jzjyd"
+      },
+      "volume": "64"
+    },
+    "579": {
+      "title": "Kouan's Master",
+      "last_updated": "1765866755",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/n87wnm8zb7x"
+      },
+      "volume": "64"
+    },
+    "580": {
+      "title": "Wilted Flower",
+      "last_updated": "1765866756",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qb4zpnl6vyj"
+      },
+      "volume": "64"
+    },
+    "581": {
+      "title": "Lost Rabbit",
+      "last_updated": "1765866760",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/bp45oqjkg75"
+      },
+      "volume": "65"
+    },
+    "585": {
+      "title": "Delete",
+      "last_updated": "1765866776",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/agyvnrgdz48"
+      },
+      "volume": "65"
+    },
+    "589": {
+      "title": "Siblings",
+      "last_updated": "1765866797",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9249k3mzayn"
+      },
+      "volume": "65"
+    },
+    "590": {
+      "title": "First Disciple",
+      "last_updated": "1765866800",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ne7b6qrwvy5"
+      },
+      "volume": "66"
     }
   }
 }
