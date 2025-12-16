@@ -1903,17 +1903,17 @@
     },
     "610": {
       "title": "A Machine That's Learned to be Useless is Called a Piece of Junk (Or a Human)",
-      "last_updated": "1758503150",
+      "last_updated": "1765867582",
       "groups": {
-        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qe4gwgkqk7j"
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/5xy2o2xl84l"
       },
       "volume": "68"
     },
     "611": {
       "title": "There's Nothing as Depressing as a Bossy Person that Likes Festivals",
-      "last_updated": "1758503164",
+      "last_updated": "1765867565",
       "groups": {
-        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/xny8md86w7b"
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/na7kk82wm78"
       },
       "volume": "68"
     },
@@ -1951,17 +1951,17 @@
     },
     "616": {
       "title": "Dirty is a Fine Color, Too",
-      "last_updated": "1758503234",
+      "last_updated": "1765867594",
       "groups": {
-        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/dl7p82w5jyo"
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/vj4jm85we48"
       },
       "volume": "68"
     },
     "617": {
       "title": "Onis are Weak to Small Things like Issun-Boushi",
-      "last_updated": "1758503250",
+      "last_updated": "1765867607",
       "groups": {
-        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/md7o8n35l4p"
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ljyqk2mdky2"
       },
       "volume": "68"
     },
@@ -3348,6 +3348,46 @@
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ne7b6qrwvy5"
       },
       "volume": "66"
+    },
+    "582": {
+      "title": "Crystal",
+      "last_updated": "1765867508",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/n87wnm8vb7x"
+      },
+      "volume": "65"
+    },
+    "584": {
+      "title": "Strongest",
+      "last_updated": "1765867509",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/lqyelmwvk4d"
+      },
+      "volume": "65"
+    },
+    "583": {
+      "title": "Right Arm",
+      "last_updated": "1765867509",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qb4zpnl3vyj"
+      },
+      "volume": "65"
+    },
+    "587": {
+      "title": "Damn Idiot",
+      "last_updated": "1765867517",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qe4gqwzlb7j"
+      },
+      "volume": "65"
+    },
+    "588": {
+      "title": "Blue Planet",
+      "last_updated": "1765867527",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/xny86mrzd4b"
+      },
+      "volume": "65"
     }
   }
 }
