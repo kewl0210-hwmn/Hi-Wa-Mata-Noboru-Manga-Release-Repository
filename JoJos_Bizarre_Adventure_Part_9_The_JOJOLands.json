@@ -233,10 +233,17 @@
       }
     },
     "030": {
-      "title": "West Side Girl Part 2",
-      "last_updated": "1765983650",
+      "title": "West Side Girl Part 1",
+      "last_updated": "1765984119",
       "groups": {
-        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9p4nzvlem4n"
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/5xy2oqle94l"
+      }
+    },
+    "031": {
+      "title": "West Side Girl Part 2",
+      "last_updated": "1765984101",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/dl7pnazqpyo"
       }
     }
   }
