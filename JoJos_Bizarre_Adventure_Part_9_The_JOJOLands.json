@@ -7,230 +7,231 @@
   "chapters": {
     "002": {
       "title": "South King Street",
+      "volume": "01",
       "last_updated": "1758051977",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/md7o8p9jl4p"
-      },
-      "volume": "01"
+      }
     },
     "001": {
       "title": "Departure",
+      "volume": "01",
       "last_updated": "1758052281",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/agyvrp2wk78"
-      },
-      "volume": "01"
+      }
     },
     "003": {
       "title": "The Villa on the Island of Hawai'i Part 1",
+      "volume": "01",
       "last_updated": "1758053780",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/agyvrp2lw78"
-      },
-      "volume": "01"
+      }
     },
     "004": {
       "title": "The Villa on the Island of Hawai'i Part 2",
+      "volume": "01",
       "last_updated": "1758053843",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/5xy225dgnyl"
-      },
-      "volume": "01"
+      }
     },
     "006": {
       "title": "Hualālai - Cat Size Part 1",
+      "volume": "02",
       "last_updated": "1758053919",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/n87wmplj34x"
-      },
-      "volume": "02"
+      }
     },
     "007": {
       "title": "Hualālai - Cat Size Part 2",
+      "volume": "02",
       "last_updated": "1758053990",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/xny8mn3rp7b"
-      },
-      "volume": "02"
+      }
     },
     "008": {
       "title": "Hualālai - Cat Size Part 3",
+      "volume": "02",
       "last_updated": "1758054059",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9p4n8onqw4n"
-      },
-      "volume": "02"
+      }
     },
     "005": {
       "title": "Climb Higher",
+      "volume": "02",
       "last_updated": "1758054216",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/vj4j8p95278"
-      },
-      "volume": "02"
+      }
     },
     "009": {
       "title": "Kailua-Kona - Flight Waiting Time Part 1",
+      "volume": "03",
       "last_updated": "1758054299",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/n87wmpl2z4x"
-      },
-      "volume": "03"
+      }
     },
     "010": {
       "title": "Kailua-Kona - Flight Waiting Time Part 2",
+      "volume": "03",
       "last_updated": "1758054462",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9p4n8onmz4n"
-      },
-      "volume": "03"
+      }
     },
     "011": {
       "title": "Kailua-Kona - Flight Waiting Time Part 3",
+      "volume": "03",
       "last_updated": "1758054529",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qe4gw9e3r7j"
-      },
-      "volume": "03"
+      }
     },
     "012": {
       "title": "Charming Man",
+      "volume": "03",
       "last_updated": "1758054575",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9p4n8onaz4n"
-      },
-      "volume": "03"
+      }
     },
     "013": {
       "title": "The Joestar Siblings",
+      "volume": "04",
       "last_updated": "1758056627",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/a846dnwk27x"
-      },
-      "volume": "04"
+      }
     },
     "014": {
       "title": "Go for the Assets Worth 50 Billion Dollars Part 1",
+      "volume": "04",
       "last_updated": "1758056688",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/pg73lagbo7r"
-      },
-      "volume": "04"
+      }
     },
     "015": {
       "title": "Go for the Assets Worth 50 Billion Dollars Part 1",
+      "volume": "04",
       "last_updated": "1758056744",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/xny8mnvqw7b"
-      },
-      "volume": "04"
+      }
     },
     "016": {
       "title": "Bags' Groove Lulu-chan Part 1",
+      "volume": "04",
       "last_updated": "1758056806",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/92493nwd84n"
-      },
-      "volume": "04"
+      }
     },
     "017": {
       "title": "Bags' Groove Lulu-Chan Part 2",
+      "volume": "05",
       "last_updated": "1758056874",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/vj4j8pk9978"
-      },
-      "volume": "05"
+      }
     },
     "018": {
       "title": "Lulu-chan and Bobby Jean Part 1",
+      "volume": "05",
       "last_updated": "1758056926",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/pg73lagro7r"
-      },
-      "volume": "05"
+      }
     },
     "019": {
       "title": "Lulu-chan and Bobby Jean Part 2",
+      "volume": "05",
       "last_updated": "1768953586",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qe4gprz6r4j"
-      },
-      "volume": "05"
+      }
     },
     "020": {
       "title": "Lulu-chan and Bobby Jean Part 3",
+      "volume": "05",
       "last_updated": "1758057031",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/md7o8pwwl4p"
-      },
-      "volume": "05"
+      }
     },
     "021": {
       "title": "Dolphin Bank Sales General Manager Yokohama",
+      "volume": "06",
       "last_updated": "1768953818",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/wl7l5mljp4x"
-      },
-      "volume": "06"
+      }
     },
     "022": {
       "title": "Board the Megayacht",
+      "volume": "06",
       "last_updated": "1768953902",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/wl7l5mljq4x"
-      },
-      "volume": "06"
+      }
     },
     "023": {
       "title": "200 Balloons and Lyin' Eyes Part 1",
+      "volume": "06",
       "last_updated": "1768953961",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/6eyr5d3og7p"
-      },
-      "volume": "06"
+      }
     },
     "024": {
       "title": "200 Balloons and Lyin' Eyes Part 2",
+      "volume": "06",
       "last_updated": "1758057292",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ne7bq9dkv75"
-      },
-      "volume": "06"
+      }
     },
     "025": {
       "title": "200 Balloons and Lyin' Eyes Part 3",
+      "volume": "07",
       "last_updated": "1767845177",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/5xy2o985j4l"
-      },
-      "volume": "07"
+      }
     },
     "026": {
       "title": "200 Balloons and Lyin' Eyes Part 4",
+      "volume": "07",
       "last_updated": "1767845159",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/dl7pn2dp6yo"
-      },
-      "volume": "07"
+      }
     },
     "027": {
       "title": "200 Balloons and Lyin' Eyes Part 5",
+      "volume": "07",
       "last_updated": "1767845167",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/na7kk6vpq78"
-      },
-      "volume": "07"
+      }
     },
     "028": {
       "title": "Those Who Lurk in the Gaps Part 1",
+      "volume": "07",
       "last_updated": "1767845175",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/md7obnqpd4p"
-      },
-      "volume": "07"
+      }
     },
     "029": {
       "title": "Lulu-chan and Laem Chabang",
+      "volume": "",
       "last_updated": "1758255532",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/5xy22v8zzyl"
@@ -238,6 +239,7 @@
     },
     "030": {
       "title": "West Side Girl Part 1",
+      "volume": "",
       "last_updated": "1765984119",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/5xy2oqle94l"
@@ -245,6 +247,7 @@
     },
     "031": {
       "title": "West Side Girl Part 2",
+      "volume": "",
       "last_updated": "1766542823",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/na7kk59ak78"
@@ -252,6 +255,7 @@
     },
     "032": {
       "title": "Sinking Howler",
+      "volume": "",
       "last_updated": "1768901415",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/wl7l5m3x64x"
@@ -259,13 +263,15 @@
     },
     "033": {
       "title": "Usagi, Fraud, and Suspicion Part 1",
+      "volume": "",
       "last_updated": "1771480651",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/m9yxdw6a64q"
       }
     },
     "034": {
-      "title": "Usagi, Fraud, and Suspicion Part 1",
+      "title": "Usagi, Fraud, and Suspicion Part 2",
+      "volume": "",
       "last_updated": "1773843784",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/xny89wd6o4b"
