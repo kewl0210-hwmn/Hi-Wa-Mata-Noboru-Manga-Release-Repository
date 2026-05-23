@@ -1,0 +1,41 @@
+{
+  "title": "Zanguard",
+  "description": "",
+  "artist": "SHIBATA Yokusaru",
+  "author": "SHIBATA Yokusaru",
+  "cover": "https://m.media-amazon.com/images/I/512jegkKDNL.jpg",
+  "chapters": {
+    "02": {
+      "title": "The 1st Milks",
+      "last_updated": "1779578735",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qe4gko8qk7j"
+      },
+      "volume": "01"
+    },
+    "03": {
+      "title": "The 2nd Milks",
+      "last_updated": "1779578741",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/bp45eanov45"
+      },
+      "volume": "01"
+    },
+    "04": {
+      "title": "The 3rd Milks",
+      "last_updated": "1779578749",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/xny88b96wyb"
+      },
+      "volume": "01"
+    },
+    "01": {
+      "title": "The Hero of Akihabara",
+      "last_updated": "1779578756",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/o24aozm6eyl"
+      },
+      "volume": "01"
+    }
+  }
+}
