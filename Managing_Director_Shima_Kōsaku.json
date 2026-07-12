@@ -781,19 +781,27 @@
       },
       "volume": "08"
     },
-    "103": {
-      "title": "Ev'rytime We Say Goodbye",
-      "last_updated": "1783889903",
+    "102": {
+      "title": "Come Rain or Come Shine",
+      "last_updated": "1783889895",
       "groups": {
-        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ljyqp5k5n72"
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/5xy25non9yl"
       },
       "volume": "08"
     },
-    "106": {
-      "title": "Someone to Watch Over Me",
-      "last_updated": "1783889931",
+    "105": {
+      "title": "Spring is Here",
+      "last_updated": "1783889918",
       "groups": {
-        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/pg73a6o8jyr"
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ej7mpve6n7d"
+      },
+      "volume": "08"
+    },
+    "107": {
+      "title": "These Foolish Things",
+      "last_updated": "1783889967",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/n87wpqnjg4x"
       },
       "volume": "08"
     }
