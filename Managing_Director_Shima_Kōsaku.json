@@ -781,11 +781,19 @@
       },
       "volume": "08"
     },
-    "103": {
-      "title": "Ev'rytime We Say Goodbye",
-      "last_updated": "1783889903",
+    "101": {
+      "title": "Violets for Your Furs",
+      "last_updated": "1783889888",
       "groups": {
-        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ljyqp5k5n72"
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/md7op5b5ryp"
+      },
+      "volume": "08"
+    },
+    "104": {
+      "title": "Green Fields",
+      "last_updated": "1783889917",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/6eyrk5n6g7p"
       },
       "volume": "08"
     }
