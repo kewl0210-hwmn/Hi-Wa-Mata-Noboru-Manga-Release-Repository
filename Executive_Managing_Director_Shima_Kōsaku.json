@@ -5,11 +5,91 @@
   "author": "HIROKANE Kenshi",
   "cover": "https://hiwamatanoboru.com/wp-content/uploads/2026/09/Executive_Managing_Director_Shima_Kosaku_v01_ch000_000a.png",
   "chapters": {
+    "001": {
+      "title": "Wonderful Tonight",
+      "last_updated": "1788911075",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/xny8dxpvp7b"
+      },
+      "volume": "01"
+    },
+    "002": {
+      "title": "Love Potion Number Nine",
+      "last_updated": "1788911319",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/na7k6zxvky8"
+      },
+      "volume": "01"
+    },
+    "003": {
+      "title": "Hard To Say I'm Sorry",
+      "last_updated": "1788911517",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ne7bmwgqk45"
+      },
+      "volume": "01"
+    },
+    "004": {
+      "title": "Lady Marmalade",
+      "last_updated": "1788911604",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/bp45lxkmx75"
+      },
+      "volume": "01"
+    },
+    "005": {
+      "title": "HOT STUFF",
+      "last_updated": "1788911696",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9rydw5lqw4k"
+      },
+      "volume": "01"
+    },
+    "006": {
+      "title": "My Way",
+      "last_updated": "1788911800",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/5xy29pzoj4l"
+      },
+      "volume": "01"
+    },
+    "007": {
+      "title": "Don't Let Me Be Misunderstood",
+      "last_updated": "1788911900",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/qe4ggdvpr4j"
+      },
+      "volume": "01"
+    },
+    "008": {
+      "title": "The Way We Were",
+      "last_updated": "1788914973",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/vj4jaddk548"
+      },
+      "volume": "01"
+    },
     "009": {
       "title": "Prelude in 'E' Minor",
       "last_updated": "1788913863",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ne7bmwwgg45"
+      },
+      "volume": "01"
+    },
+    "010": {
+      "title": "Nobody Does It Better",
+      "last_updated": "1788912236",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/wl7lvxz6pyx"
+      },
+      "volume": "01"
+    },
+    "011": {
+      "title": "Born To Be Wild",
+      "last_updated": "1788912341",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/m9yxwkx537q"
       },
       "volume": "01"
     }
