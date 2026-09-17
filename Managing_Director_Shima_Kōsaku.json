@@ -3,15 +3,15 @@
   "description": "",
   "artist": "HIROKANE Kenshi",
   "author": "HIROKANE Kenshi",
-  "cover": "https://hiwamatanoboru.com/wp-content/uploads/2026/09/Executive_Managing_Director_Shima_Kosaku_v01_ch000_000a.png",
+  "cover": "https://i0.wp.com/hiwamatanoboru.com/wp-content/uploads/2025/05/Managing_Director_Shima_Kosaku_v01_ch000_000a.png",
   "chapters": {
     "009": {
       "title": "Prelude in 'E' Minor",
+      "volume": "01",
       "last_updated": "1788913400",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/qe4ggdvnq4j"
-      },
-      "volume": "01"
+      }
     }
   }
 }
