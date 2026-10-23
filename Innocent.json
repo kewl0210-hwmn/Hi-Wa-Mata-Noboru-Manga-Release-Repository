@@ -133,19 +133,19 @@
       },
       "volume": "07"
     },
-    "07": {
-      "title": "Premonition of a White Storm1",
-      "last_updated": "1758246249",
-      "groups": {
-        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/agyvr82mb78"
-      },
-      "volume": "07"
-    },
     "070": {
       "title": "Charles' Self-Defense",
       "last_updated": "1758246264",
       "groups": {
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/92493bvob4n"
+      },
+      "volume": "07"
+    },
+    "071": {
+      "title": "Premonition of a White Storm",
+      "last_updated": "1758246249",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/agyvr82mb78"
       },
       "volume": "07"
     },
