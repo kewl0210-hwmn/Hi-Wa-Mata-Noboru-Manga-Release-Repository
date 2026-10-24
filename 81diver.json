@@ -2748,6 +2748,14 @@
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/ljyq2l6joy2"
       },
       "volume": "35"
+    },
+    "002": {
+      "title": "This is Shinken",
+      "last_updated": "1792821679",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/bp45w6xnn45"
+      },
+      "volume": "01"
     }
   }
 }
