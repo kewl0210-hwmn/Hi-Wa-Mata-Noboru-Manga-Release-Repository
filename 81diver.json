@@ -2996,6 +2996,14 @@
         "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/bp45w6xgg45"
       },
       "volume": "04"
+    },
+    "001": {
+      "title": "Ukeshi of Akiba",
+      "last_updated": "1792828512",
+      "groups": {
+        "Hi Wa Mata Noboru": "/proxy/api/imgchest/chapter/9p4npk2vmyn"
+      },
+      "volume": "01"
     }
   }
 }
